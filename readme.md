@@ -70,7 +70,6 @@ for training:
 
     go run train.go -d Corpus/en -m -o ../chat/perimicaCorpustrial.gob
 
-![Training script usage](media/trainUsage.png)
 
 
 ## Profiling and Performance Optimization
@@ -84,17 +83,12 @@ for Inference:
 
 Here's a demonstration of how the chatbot works:
 
-![Chat Script Usage](media/perichat.mp4)
-
 
 chatbot usage with MR working and confidence scoring
-
-![Chat With MR Functionality](media/perichatWMrVerb.png)
 
 The Recent Chat History feature is also implemented for enhanced interactive training, allowing the system to save conversations. If a question remains unanswered, the chat history can be stored and sent to developers for retraining purposes.
 
 Recent Chats with Automatic Category filtering.
-![Recent Chats](media/recentChat.png)
 
 ### Profiling Types:
 
