@@ -123,9 +123,9 @@ The current challenge is the limited corpus data, which affects the chatbot's ab
 - **[Chatbot](https://github.com/kevwan/chatbot/)**  
   Chatbot - An Advancement Engine used in the project, any NLP and engine changes were implemented on top of this.
 
-Initial Version owned By Cecil Joseph
-
-Current version Handled By Cecil Joseph  
+Initial Fork from kevwan/chatbot - No active sync from Now on
+Main Version owned By Cecil Joseph - ceciljoseph97/chatbot - No active sync from Now on
+Current version Handled By Cecil Joseph  - Will be Migrating as a fork to Respective repo
 
 
 
