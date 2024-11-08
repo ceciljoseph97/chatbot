@@ -4,7 +4,7 @@ import (
 	"encoding/gob"
 	"os"
 
-	"github.com/kevwan/chatbot/bot/nlp"
+	"golangChatBot/bot/nlp"
 )
 
 type separatedMemoryStorage struct {
@@ -13,7 +13,7 @@ type separatedMemoryStorage struct {
 	questionStorage    GobStorage
 }
 
-func NewSeparatedMemoryStorage(filepath string) (*separatedMemoryStorage, error) {
+func NewSeparatedMemoryStorage(filepath string, config Config) (*separatedMemoryStorage, error) {
 	var declarativeStorage, questionStorage GobStorage
 
 	if _, err := os.Stat(filepath); err == nil {
@@ -24,16 +24,16 @@ func NewSeparatedMemoryStorage(filepath string) (*separatedMemoryStorage, error)
 		defer f.Close()
 
 		decoder := gob.NewDecoder(f)
-		if declarativeStorage, err = RestoreMemoryStorage(decoder); err != nil {
+		if declarativeStorage, err = RestoreMemoryStorage(decoder, config); err != nil {
 			return nil, err
 		}
 
-		if questionStorage, err = RestoreMemoryStorage(decoder); err != nil {
+		if questionStorage, err = RestoreMemoryStorage(decoder, config); err != nil {
 			return nil, err
 		}
 	} else {
-		declarativeStorage = NewMemoryStorage()
-		questionStorage = NewMemoryStorage()
+		declarativeStorage = NewMemoryStorage(config)
+		questionStorage = NewMemoryStorage(config)
 	}
 
 	return &separatedMemoryStorage{

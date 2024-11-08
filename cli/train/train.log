@@ -1,0 +1,395 @@
+2024/09/20 09:55:04 Directory: Corpus/en
+2024/09/20 09:55:04 Corpora: 
+2024/09/20 09:55:04 Store File: ../chat/perimicaCorpustrial.gob
+2024/09/20 09:55:04 Print Memory Stats: true
+2024/09/20 09:55:04 Log File: train.log
+2024/09/20 09:55:04 Extensions: [json yml yaml]
+2024/09/20 09:55:04 Found files for pattern *.json: []
+2024/09/20 09:55:04 Found files for pattern *.yml: [Corpus/en/PeriNodeBaseInfo.yml Corpus/en/ai.yml Corpus/en/botprofile.yml Corpus/en/greetings.yml Corpus/en/humor.yml Corpus/en/perMica.yml Corpus/en/perimicaUserGuide.yml Corpus/en/perinet.yml]
+2024/09/20 09:55:04 Found files for pattern *.yaml: []
+2024/09/20 09:55:04 Training on corpora files: [Corpus/en/PeriNodeBaseInfo.yml Corpus/en/ai.yml Corpus/en/botprofile.yml Corpus/en/greetings.yml Corpus/en/humor.yml Corpus/en/perMica.yml Corpus/en/perimicaUserGuide.yml Corpus/en/perinet.yml]
+2024/09/20 09:55:28 Training completed successfully.
+2024/09/20 09:57:41 Directory: Corpus/en
+2024/09/20 09:57:41 Corpora: 
+2024/09/20 09:57:41 Store File: ../chat/perimicaCorpustrial.gob
+2024/09/20 09:57:41 Print Memory Stats: true
+2024/09/20 09:57:41 Log File: train.log
+2024/09/20 09:57:41 Extensions: [json yml yaml]
+2024/09/20 09:57:41 Found files for pattern *.json: []
+2024/09/20 09:57:41 Found files for pattern *.yml: [Corpus/en/PeriNodeBaseInfo.yml Corpus/en/ai.yml Corpus/en/botprofile.yml Corpus/en/greetings.yml Corpus/en/humor.yml Corpus/en/perMica.yml Corpus/en/perimicaUserGuide.yml Corpus/en/perinet.yml]
+2024/09/20 09:57:41 Found files for pattern *.yaml: []
+2024/09/20 09:57:41 Training on corpora files: [Corpus/en/PeriNodeBaseInfo.yml Corpus/en/ai.yml Corpus/en/botprofile.yml Corpus/en/greetings.yml Corpus/en/humor.yml Corpus/en/perMica.yml Corpus/en/perimicaUserGuide.yml Corpus/en/perinet.yml]
+2024/09/20 09:58:04 Training completed successfully in 196.50604ms.
+2024/09/23 14:17:10 Directory: Corpus/en
+2024/09/23 14:17:10 Corpora: 
+2024/09/23 14:17:10 Store File: ../chat/perimicaCorpustrial.gob
+2024/09/23 14:17:10 Print Memory Stats: true
+2024/09/23 14:17:10 Log File: train.log
+2024/09/23 14:17:10 Extensions: [json yml yaml]
+2024/09/23 14:17:10 Found files for pattern *.json: []
+2024/09/23 14:17:10 Found files for pattern *.yml: [Corpus/en/PeriNodeBaseInfo.yml Corpus/en/ai.yml Corpus/en/botprofile.yml Corpus/en/greetings.yml Corpus/en/humor.yml Corpus/en/perMica.yml Corpus/en/perimicaUserGuide.yml Corpus/en/perinet.yml]
+2024/09/23 14:17:10 Found files for pattern *.yaml: []
+2024/09/23 14:17:10 Training on corpora files: [Corpus/en/PeriNodeBaseInfo.yml Corpus/en/ai.yml Corpus/en/botprofile.yml Corpus/en/greetings.yml Corpus/en/humor.yml Corpus/en/perMica.yml Corpus/en/perimicaUserGuide.yml Corpus/en/perinet.yml]
+2024/09/23 14:17:33 Training completed successfully in 196.03964ms.
+2024/09/23 14:26:47 Directory: Corpus/en
+2024/09/23 14:26:47 Corpora: 
+2024/09/23 14:26:47 Store File: ../chat/perimicaCorpustrial.gob
+2024/09/23 14:26:47 Print Memory Stats: true
+2024/09/23 14:26:47 Log File: train.log
+2024/09/23 14:26:47 Extensions: [json yml yaml]
+2024/09/23 14:26:47 Found files for pattern *.json: []
+2024/09/23 14:26:47 Found files for pattern *.yml: [Corpus/en/PeriNodeBaseInfo.yml Corpus/en/ai.yml Corpus/en/botprofile.yml Corpus/en/greetings.yml Corpus/en/humor.yml Corpus/en/perMica.yml Corpus/en/perimicaUserGuide.yml Corpus/en/perinet.yml]
+2024/09/23 14:26:47 Found files for pattern *.yaml: []
+2024/09/23 14:26:47 Training on corpora files: [Corpus/en/PeriNodeBaseInfo.yml Corpus/en/ai.yml Corpus/en/botprofile.yml Corpus/en/greetings.yml Corpus/en/humor.yml Corpus/en/perMica.yml Corpus/en/perimicaUserGuide.yml Corpus/en/perinet.yml]
+2024/09/23 14:27:10 Training completed successfully in 225.8152ms.
+2024/09/27 13:11:11 Directory: Corpus/en
+2024/09/27 13:11:11 Corpora: 
+2024/09/27 13:11:11 Store File: ../chat/perimicaCorpustrial.gob
+2024/09/27 13:11:11 Print Memory Stats: true
+2024/09/27 13:11:11 Log File: train.log
+2024/09/27 13:11:11 Extensions: [json yml yaml]
+2024/09/27 13:11:11 Found files for pattern *.json: []
+2024/09/27 13:11:11 Found files for pattern *.yml: [Corpus/en/PeriNodeBaseInfo.yml Corpus/en/ai.yml Corpus/en/botprofile.yml Corpus/en/greetings.yml Corpus/en/humor.yml Corpus/en/perMica.yml Corpus/en/perimicaUserGuide.yml Corpus/en/perinet.yml]
+2024/09/27 13:11:11 Found files for pattern *.yaml: []
+2024/09/27 13:11:11 Training on corpora files: [Corpus/en/PeriNodeBaseInfo.yml Corpus/en/ai.yml Corpus/en/botprofile.yml Corpus/en/greetings.yml Corpus/en/humor.yml Corpus/en/perMica.yml Corpus/en/perimicaUserGuide.yml Corpus/en/perinet.yml]
+2024/09/27 13:11:34 Training completed successfully in 225.80784ms.
+2024/09/27 15:14:08 Directory: Corpus/en
+2024/09/27 15:14:08 Corpora: 
+2024/09/27 15:14:08 Store File: ../chat/perimicaCorpustrial.gob
+2024/09/27 15:14:08 Print Memory Stats: true
+2024/09/27 15:14:08 Log File: train.log
+2024/09/27 15:14:08 Extensions: [json yml yaml]
+2024/09/27 15:14:08 Found files for pattern *.json: []
+2024/09/27 15:14:08 Found files for pattern *.yml: [Corpus\en\PeriNodeBaseInfo.yml Corpus\en\ai.yml Corpus\en\botprofile.yml Corpus\en\greetings.yml Corpus\en\humor.yml Corpus\en\perMica.yml Corpus\en\perimicaUserGuide.yml Corpus\en\perinet.yml]
+2024/09/27 15:14:08 Found files for pattern *.yaml: []
+2024/09/27 15:14:08 Training on corpora files: [Corpus\en\PeriNodeBaseInfo.yml Corpus\en\ai.yml Corpus\en\botprofile.yml Corpus\en\greetings.yml Corpus\en\humor.yml Corpus\en\perMica.yml Corpus\en\perimicaUserGuide.yml Corpus\en\perinet.yml]
+2024/09/27 15:14:13 Training completed successfully in 60.0238ms.
+2024/10/09 12:25:32 Directory: Corpus/en
+2024/10/09 12:25:32 Corpora: 
+2024/10/09 12:25:32 Store File: ../chat/perimicaCorpustrial.gob
+2024/10/09 12:25:32 Print Memory Stats: true
+2024/10/09 12:25:32 Log File: train.log
+2024/10/09 12:25:32 Extensions: [json yml yaml]
+2024/10/09 12:25:32 Found files for pattern *.json: []
+2024/10/09 12:25:32 Found files for pattern *.yml: [Corpus\en\PeriNodeBaseInfo.yml Corpus\en\ai.yml Corpus\en\botprofile.yml Corpus\en\greetings.yml Corpus\en\humor.yml Corpus\en\perMica.yml Corpus\en\perimicaUserGuide.yml Corpus\en\perinet.yml]
+2024/10/09 12:25:32 Found files for pattern *.yaml: []
+2024/10/09 12:25:32 Training on corpora files: [Corpus\en\PeriNodeBaseInfo.yml Corpus\en\ai.yml Corpus\en\botprofile.yml Corpus\en\greetings.yml Corpus\en\humor.yml Corpus\en\perMica.yml Corpus\en\perimicaUserGuide.yml Corpus\en\perinet.yml]
+2024/10/09 12:25:36 Training completed successfully in 76.2533ms.
+2024/10/09 12:26:16 Directory: Corpus/en
+2024/10/09 12:26:16 Corpora: 
+2024/10/09 12:26:16 Store File: ../chat/perimicaCorpustrial.gob
+2024/10/09 12:26:16 Print Memory Stats: true
+2024/10/09 12:26:16 Log File: train.log
+2024/10/09 12:26:16 Extensions: [json yml yaml]
+2024/10/09 12:26:16 Found files for pattern *.json: []
+2024/10/09 12:26:16 Found files for pattern *.yml: [Corpus\en\PeriNodeBaseInfo.yml Corpus\en\ai.yml Corpus\en\botprofile.yml Corpus\en\greetings.yml Corpus\en\humor.yml Corpus\en\perMica.yml Corpus\en\perimicaUserGuide.yml Corpus\en\perinet.yml]
+2024/10/09 12:26:16 Found files for pattern *.yaml: []
+2024/10/09 12:26:16 Training on corpora files: [Corpus\en\PeriNodeBaseInfo.yml Corpus\en\ai.yml Corpus\en\botprofile.yml Corpus\en\greetings.yml Corpus\en\humor.yml Corpus\en\perMica.yml Corpus\en\perimicaUserGuide.yml Corpus\en\perinet.yml]
+2024/10/09 12:26:21 Training completed successfully in 59.2005ms.
+2024/10/09 12:26:54 Directory: Corpus/en
+2024/10/09 12:26:54 Corpora: 
+2024/10/09 12:26:54 Store File: ../chat/perimicaCorpustrial.gob
+2024/10/09 12:26:54 Print Memory Stats: true
+2024/10/09 12:26:54 Log File: train.log
+2024/10/09 12:26:54 Extensions: [json yml yaml]
+2024/10/09 12:26:54 Found files for pattern *.json: []
+2024/10/09 12:26:54 Found files for pattern *.yml: [Corpus\en\PeriNodeBaseInfo.yml Corpus\en\ai.yml Corpus\en\botprofile.yml Corpus\en\greetings.yml Corpus\en\humor.yml Corpus\en\perMica.yml Corpus\en\perimicaUserGuide.yml Corpus\en\perinet.yml]
+2024/10/09 12:26:54 Found files for pattern *.yaml: []
+2024/10/09 12:26:54 Training on corpora files: [Corpus\en\PeriNodeBaseInfo.yml Corpus\en\ai.yml Corpus\en\botprofile.yml Corpus\en\greetings.yml Corpus\en\humor.yml Corpus\en\perMica.yml Corpus\en\perimicaUserGuide.yml Corpus\en\perinet.yml]
+2024/10/09 12:26:54 open C:\Workspace\PeriAIMain\Research\PeriChat\cli\etc\dict.txt: The system cannot find the file specified.
+
+goroutine 1 [running]:
+runtime/debug.Stack()
+	C:/Program Files/Go/src/runtime/debug/stack.go:24 +0x5e
+github.com/zeromicro/go-zero/core/logx.Must({0x4a5208?, 0xc00020ad20?})
+	C:/Users/CecilJoseph/go/pkg/mod/github.com/zeromicro/go-zero@v1.5.4/core/logx/logs.go:225 +0x4e
+github.com/kevwan/chatbot/bot/adapters/storage.RestoreMemoryStorage(0xc00007d080)
+	C:/Workspace/PeriAIMain/Research/PeriChat/bot/adapters/storage/memorystorage.go:47 +0x9f
+github.com/kevwan/chatbot/bot/adapters/storage.NewSeparatedMemoryStorage({0xc000012180, 0x1f})
+	C:/Workspace/PeriAIMain/Research/PeriChat/bot/adapters/storage/separatedmemorystorage.go:27 +0xc8
+main.main()
+	C:/Workspace/PeriAIMain/Research/PeriChat/cli/train/train.go:67 +0xb89
+2024/10/09 12:27:32 Directory: Corpus/en
+2024/10/09 12:27:32 Corpora: 
+2024/10/09 12:27:32 Store File: ../chat/perimicaCorpustrial.gob
+2024/10/09 12:27:32 Print Memory Stats: true
+2024/10/09 12:27:32 Log File: train.log
+2024/10/09 12:27:32 Extensions: [json yml yaml]
+2024/10/09 12:27:32 Found files for pattern *.json: []
+2024/10/09 12:27:32 Found files for pattern *.yml: [Corpus\en\PeriNodeBaseInfo.yml Corpus\en\ai.yml Corpus\en\botprofile.yml Corpus\en\greetings.yml Corpus\en\humor.yml Corpus\en\perMica.yml Corpus\en\perimicaUserGuide.yml Corpus\en\perinet.yml]
+2024/10/09 12:27:32 Found files for pattern *.yaml: []
+2024/10/09 12:27:32 Training on corpora files: [Corpus\en\PeriNodeBaseInfo.yml Corpus\en\ai.yml Corpus\en\botprofile.yml Corpus\en\greetings.yml Corpus\en\humor.yml Corpus\en\perMica.yml Corpus\en\perimicaUserGuide.yml Corpus\en\perinet.yml]
+2024/10/09 12:27:37 Training completed successfully in 56.3222ms.
+2024/10/09 12:30:14 Directory: Corpus/en
+2024/10/09 12:30:14 Corpora: 
+2024/10/09 12:30:14 Store File: ../chat/perimicaCorpustrial.gob
+2024/10/09 12:30:14 Print Memory Stats: true
+2024/10/09 12:30:14 Log File: train.log
+2024/10/09 12:30:14 Extensions: [json yml yaml]
+2024/10/09 12:30:14 Found files for pattern *.json: []
+2024/10/09 12:30:14 Found files for pattern *.yml: [Corpus\en\PeriNodeBaseInfo.yml Corpus\en\ai.yml Corpus\en\botprofile.yml Corpus\en\greetings.yml Corpus\en\humor.yml Corpus\en\perMica.yml Corpus\en\perimicaUserGuide.yml Corpus\en\perinet.yml]
+2024/10/09 12:30:14 Found files for pattern *.yaml: []
+2024/10/09 12:30:14 Training on corpora files: [Corpus\en\PeriNodeBaseInfo.yml Corpus\en\ai.yml Corpus\en\botprofile.yml Corpus\en\greetings.yml Corpus\en\humor.yml Corpus\en\perMica.yml Corpus\en\perimicaUserGuide.yml Corpus\en\perinet.yml]
+2024/10/09 12:33:39 Directory: Corpus/en
+2024/10/09 12:33:39 Corpora: 
+2024/10/09 12:33:39 Store File: ../chat/perimicaCorpustrial.gob
+2024/10/09 12:33:39 Print Memory Stats: true
+2024/10/09 12:33:39 Log File: train.log
+2024/10/09 12:33:39 Extensions: [json yml yaml]
+2024/10/09 12:33:39 Found files for pattern *.json: []
+2024/10/09 12:33:39 Found files for pattern *.yml: [Corpus\en\PeriNodeBaseInfo.yml Corpus\en\ai.yml Corpus\en\botprofile.yml Corpus\en\greetings.yml Corpus\en\humor.yml Corpus\en\perMica.yml Corpus\en\perimicaUserGuide.yml Corpus\en\perinet.yml]
+2024/10/09 12:33:39 Found files for pattern *.yaml: []
+2024/10/09 12:33:39 Training on corpora files: [Corpus\en\PeriNodeBaseInfo.yml Corpus\en\ai.yml Corpus\en\botprofile.yml Corpus\en\greetings.yml Corpus\en\humor.yml Corpus\en\perMica.yml Corpus\en\perimicaUserGuide.yml Corpus\en\perinet.yml]
+2024/10/09 12:33:46 Training completed successfully in 59.0017ms.
+2024/10/09 13:05:17 Directory: Corpus/en
+2024/10/09 13:05:17 Corpora: 
+2024/10/09 13:05:17 Store File: ../chat/perimicaCorpustrial.gob
+2024/10/09 13:05:17 Print Memory Stats: true
+2024/10/09 13:05:17 Log File: train.log
+2024/10/09 13:05:17 Extensions: [json yml yaml]
+2024/10/09 13:05:17 Found files for pattern *.json: []
+2024/10/09 13:05:17 Found files for pattern *.yml: [Corpus\en\PeriNodeBaseInfo.yml Corpus\en\ai.yml Corpus\en\botprofile.yml Corpus\en\greetings.yml Corpus\en\humor.yml Corpus\en\perMica.yml Corpus\en\perimicaUserGuide.yml Corpus\en\perinet.yml]
+2024/10/09 13:05:17 Found files for pattern *.yaml: []
+2024/10/09 13:05:17 Training on corpora files: [Corpus\en\PeriNodeBaseInfo.yml Corpus\en\ai.yml Corpus\en\botprofile.yml Corpus\en\greetings.yml Corpus\en\humor.yml Corpus\en\perMica.yml Corpus\en\perimicaUserGuide.yml Corpus\en\perinet.yml]
+2024/10/09 13:05:23 Training completed successfully in 42.2065ms.
+2024/10/22 11:03:24 Directory: Corpus/en
+2024/10/22 11:03:24 Corpora: 
+2024/10/22 11:03:24 Store File: ../chat/PMFuncOverView.gob
+2024/10/22 11:03:24 Print Memory Stats: true
+2024/10/22 11:03:24 Log File: train.log
+2024/10/22 11:03:24 Extensions: [json yml yaml]
+2024/10/22 11:03:24 Found files for pattern *.json: []
+2024/10/22 11:03:24 Found files for pattern *.yml: [Corpus/en/PeriNodeBaseInfo.yml Corpus/en/ai.yml Corpus/en/botprofile.yml Corpus/en/greetings.yml Corpus/en/humor.yml Corpus/en/perMica.yml Corpus/en/perimicaOverviewFunctions.yml Corpus/en/perimicaUserGuide.yml Corpus/en/perinet.yml]
+2024/10/22 11:03:24 Found files for pattern *.yaml: []
+2024/10/22 11:03:24 Training on corpora files: [Corpus/en/PeriNodeBaseInfo.yml Corpus/en/ai.yml Corpus/en/botprofile.yml Corpus/en/greetings.yml Corpus/en/humor.yml Corpus/en/perMica.yml Corpus/en/perimicaOverviewFunctions.yml Corpus/en/perimicaUserGuide.yml Corpus/en/perinet.yml]
+2024/10/22 11:03:47 Training completed successfully in 290.30512ms.
+2024/10/22 11:12:02 Directory: Corpus/en
+2024/10/22 11:12:02 Corpora: 
+2024/10/22 11:12:02 Store File: ../chat/PMFuncOverView.gob
+2024/10/22 11:12:02 Print Memory Stats: true
+2024/10/22 11:12:02 Log File: train.log
+2024/10/22 11:12:02 Extensions: [json yml yaml]
+2024/10/22 11:12:02 Found files for pattern *.json: []
+2024/10/22 11:12:02 Found files for pattern *.yml: []
+2024/10/22 11:12:02 Found files for pattern *.yaml: []
+2024/10/22 11:21:46 Directory: Corpus/en
+2024/10/22 11:21:46 Corpora: 
+2024/10/22 11:21:46 Store File: ../chat/PMFuncOverView.gob
+2024/10/22 11:21:46 Print Memory Stats: true
+2024/10/22 11:21:46 Log File: train.log
+2024/10/22 11:21:46 Extensions: [json yml yaml]
+2024/10/22 11:21:46 Found corpora files: [Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/10/22 11:21:46 Training on corpora files: [Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/10/22 11:22:09 Training completed successfully in 261.61892ms.
+2024/10/22 11:31:05 Directory: Corpus/en
+2024/10/22 11:31:05 Corpora: 
+2024/10/22 11:31:05 Store File: ../chat/PMFuncOverView.gob
+2024/10/22 11:31:05 Print Memory Stats: true
+2024/10/22 11:31:05 Log File: train.log
+2024/10/22 11:31:05 Extensions: [json yml yaml]
+2024/10/22 11:31:05 Found corpora files: [Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/10/22 11:31:05 Training on corpora files: [Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/10/22 11:31:27 Training completed successfully in 130.64364ms.
+2024/10/24 12:50:04 Config File: ../config_local.yaml
+2024/10/24 12:50:04 Directory: Corpus/en
+2024/10/24 12:50:04 Corpora: 
+2024/10/24 12:50:04 Store File: ../chat/perimicaCorpustrial.gob
+2024/10/24 12:50:04 Print Memory Stats: true
+2024/10/24 12:50:04 Log File: train.log
+2024/10/24 12:50:04 Extensions: [json yml yaml]
+2024/10/24 12:50:04 Found corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml Corpus\en\perimicaUserGuide copy 3.yml Corpus\en\perimicaUserGuide copy 4.yml Corpus\en\perimicaUserGuide copy 5.yml Corpus\en\perimicaUserGuide copy 6.yml Corpus\en\perimicaUserGuide copy 7.yml Corpus\en\perimicaUserGuide copy.yml]
+2024/10/24 12:50:04 Training on corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml Corpus\en\perimicaUserGuide copy 3.yml Corpus\en\perimicaUserGuide copy 4.yml Corpus\en\perimicaUserGuide copy 5.yml Corpus\en\perimicaUserGuide copy 6.yml Corpus\en\perimicaUserGuide copy 7.yml Corpus\en\perimicaUserGuide copy.yml]
+2024/10/24 12:56:23 Config File: ../config_local.yaml
+2024/10/24 12:56:23 Directory: Corpus/en
+2024/10/24 12:56:23 Corpora: 
+2024/10/24 12:56:23 Store File: ../chat/perimicaCorpustrial.gob
+2024/10/24 12:56:23 Print Memory Stats: true
+2024/10/24 12:56:23 Log File: train.log
+2024/10/24 12:56:23 Extensions: [json yml yaml]
+2024/10/24 12:56:23 Found corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml Corpus\en\perimicaUserGuide copy 3.yml Corpus\en\perimicaUserGuide copy 4.yml Corpus\en\perimicaUserGuide copy 5.yml Corpus\en\perimicaUserGuide copy 6.yml Corpus\en\perimicaUserGuide copy 7.yml Corpus\en\perimicaUserGuide copy.yml]
+2024/10/24 12:56:23 Training on corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml Corpus\en\perimicaUserGuide copy 3.yml Corpus\en\perimicaUserGuide copy 4.yml Corpus\en\perimicaUserGuide copy 5.yml Corpus\en\perimicaUserGuide copy 6.yml Corpus\en\perimicaUserGuide copy 7.yml Corpus\en\perimicaUserGuide copy.yml]
+2024/10/24 12:58:00 Config File: ../config_local.yaml
+2024/10/24 12:58:00 Directory: Corpus/en
+2024/10/24 12:58:00 Corpora: 
+2024/10/24 12:58:00 Store File: ../chat/perimicaCorpustrial.gob
+2024/10/24 12:58:00 Print Memory Stats: true
+2024/10/24 12:58:00 Log File: train.log
+2024/10/24 12:58:00 Extensions: [json yml yaml]
+2024/10/24 12:58:00 Found corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml Corpus\en\perimicaUserGuide copy 3.yml Corpus\en\perimicaUserGuide copy 4.yml Corpus\en\perimicaUserGuide copy 5.yml Corpus\en\perimicaUserGuide copy 6.yml Corpus\en\perimicaUserGuide copy 7.yml Corpus\en\perimicaUserGuide copy.yml]
+2024/10/24 12:58:00 Training on corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml Corpus\en\perimicaUserGuide copy 3.yml Corpus\en\perimicaUserGuide copy 4.yml Corpus\en\perimicaUserGuide copy 5.yml Corpus\en\perimicaUserGuide copy 6.yml Corpus\en\perimicaUserGuide copy 7.yml Corpus\en\perimicaUserGuide copy.yml]
+2024/10/24 12:58:06 Training completed successfully in 50.467ms.
+2024/10/24 12:58:55 Config File: ../config_local.yaml
+2024/10/24 12:58:55 Directory: Corpus/en
+2024/10/24 12:58:55 Corpora: 
+2024/10/24 12:58:55 Store File: ../chat/PMFuncOverview.gob
+2024/10/24 12:58:55 Print Memory Stats: true
+2024/10/24 12:58:55 Log File: train.log
+2024/10/24 12:58:55 Extensions: [json yml yaml]
+2024/10/24 12:58:55 Found corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml Corpus\en\perimicaUserGuide copy 3.yml Corpus\en\perimicaUserGuide copy 4.yml Corpus\en\perimicaUserGuide copy 5.yml Corpus\en\perimicaUserGuide copy 6.yml Corpus\en\perimicaUserGuide copy 7.yml Corpus\en\perimicaUserGuide copy.yml]
+2024/10/24 12:58:55 Training on corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml Corpus\en\perimicaUserGuide copy 3.yml Corpus\en\perimicaUserGuide copy 4.yml Corpus\en\perimicaUserGuide copy 5.yml Corpus\en\perimicaUserGuide copy 6.yml Corpus\en\perimicaUserGuide copy 7.yml Corpus\en\perimicaUserGuide copy.yml]
+2024/10/24 12:59:04 Training completed successfully in 136.8623ms.
+2024/10/24 13:13:21 Config File: ../config_local.yaml
+2024/10/24 13:13:21 Directory: Corpus/en
+2024/10/24 13:13:21 Corpora: 
+2024/10/24 13:13:21 Store File: ../chat/PMFuncOverview.gob
+2024/10/24 13:13:21 Print Memory Stats: true
+2024/10/24 13:13:21 Log File: train.log
+2024/10/24 13:13:21 Extensions: [json yml yaml]
+2024/10/24 13:13:21 Found corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/10/24 13:13:21 Training on corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/10/24 13:13:27 Training completed successfully in 56.2413ms.
+2024/11/04 09:39:38 Config File: ../config_local.yaml
+2024/11/04 09:39:38 Directory: Corpus/en
+2024/11/04 09:39:38 Corpora: 
+2024/11/04 09:39:38 Store File: ../chat/PMFuncOverview.gob
+2024/11/04 09:39:38 Print Memory Stats: true
+2024/11/04 09:39:38 Log File: train.log
+2024/11/04 09:39:38 Extensions: [json yml yaml]
+2024/11/04 09:39:38 Found corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/04 09:39:38 Training on corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/04 09:39:47 Training completed successfully in 117.1048ms.
+2024/11/04 12:24:58 Config File: ../config_local.yaml
+2024/11/04 12:24:58 Directory: Corpus/en
+2024/11/04 12:24:58 Corpora: 
+2024/11/04 12:24:58 Store File: ../chat/PMFuncOverview.gob
+2024/11/04 12:24:58 Print Memory Stats: true
+2024/11/04 12:24:58 Log File: train.log
+2024/11/04 12:24:58 Extensions: [json yml yaml]
+2024/11/04 12:24:58 Found corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/04 12:24:58 Training on corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/04 12:25:03 Sanitizing and training on file: Corpus\en\Perimica\perimicaOverviewFunctions.yml
+2024/11/04 12:25:03 open categories: The system cannot find the file specified.
+2024/11/04 12:39:15 Config File: ../config_local.yaml
+2024/11/04 12:39:15 Directory: Corpus/en
+2024/11/04 12:39:15 Corpora: 
+2024/11/04 12:39:15 Store File: ../chat/PMFuncOverview.gob
+2024/11/04 12:39:15 Print Memory Stats: true
+2024/11/04 12:39:15 Log File: train.log
+2024/11/04 12:39:15 Extensions: [json yml yaml]
+2024/11/04 12:39:15 Found corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/04 12:39:15 Training on corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/04 12:39:21 Training completed successfully in 58.0045ms.
+2024/11/04 12:39:48 Config File: ../config_local.yaml
+2024/11/04 12:39:48 Directory: Corpus/en
+2024/11/04 12:39:48 Corpora: 
+2024/11/04 12:39:48 Store File: ../chat/PMFuncOverview.gob
+2024/11/04 12:39:48 Print Memory Stats: true
+2024/11/04 12:39:48 Log File: train.log
+2024/11/04 12:39:48 Extensions: [json yml yaml]
+2024/11/04 12:39:48 Found corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/04 12:39:48 Training on corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/04 12:39:54 yaml: unmarshal errors:
+  line 15: cannot unmarshal !!map into string
+2024/11/04 12:42:19 Config File: ../config_local.yaml
+2024/11/04 12:42:19 Directory: Corpus/en
+2024/11/04 12:42:19 Corpora: 
+2024/11/04 12:42:19 Store File: ../chat/PMFuncOverview.gob
+2024/11/04 12:42:19 Print Memory Stats: true
+2024/11/04 12:42:19 Log File: train.log
+2024/11/04 12:42:19 Extensions: [json yml yaml]
+2024/11/04 12:42:19 Found corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/04 12:42:19 Training on corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/04 12:42:25 yaml: unmarshal errors:
+  line 15: cannot unmarshal !!map into string
+2024/11/04 12:43:47 Config File: ../config_local.yaml
+2024/11/04 12:43:47 Directory: Corpus/en
+2024/11/04 12:43:47 Corpora: 
+2024/11/04 12:43:47 Store File: ../chat/PMFuncOverview.gob
+2024/11/04 12:43:47 Print Memory Stats: true
+2024/11/04 12:43:47 Log File: train.log
+2024/11/04 12:43:47 Extensions: [json yml yaml]
+2024/11/04 12:43:47 Found corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/04 12:43:47 Training on corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/04 12:43:47 Error parsing sanitized corpus file Corpus\en\Perimica\perimicaOverviewFunctions.yml: yaml: unmarshal errors:
+  line 1: cannot unmarshal !!str `categor...` into map[string]interface {}
+2024/11/04 12:43:47 Error parsing sanitized corpus file Corpus\en\Perinet\perinet.yml: yaml: unmarshal errors:
+  line 1: cannot unmarshal !!str `categor...` into map[string]interface {}
+2024/11/04 12:43:47 Error parsing sanitized corpus file Corpus\en\SmallTalk\greetings.yml: yaml: unmarshal errors:
+  line 1: cannot unmarshal !!str `categor...` into map[string]interface {}
+2024/11/04 12:43:53 yaml: unmarshal errors:
+  line 15: cannot unmarshal !!map into string
+2024/11/04 12:46:26 Config File: ../config_local.yaml
+2024/11/04 12:46:26 Directory: Corpus/en
+2024/11/04 12:46:26 Corpora: 
+2024/11/04 12:46:26 Store File: ../chat/PMFuncOverview.gob
+2024/11/04 12:46:26 Print Memory Stats: true
+2024/11/04 12:46:26 Log File: train.log
+2024/11/04 12:46:26 Extensions: [json yml yaml]
+2024/11/04 12:46:26 Found corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/04 12:46:26 Training on corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/04 12:46:26 Parsed sanitized content for Corpus\en\Perimica\perimicaOverviewFunctions.yml: map[categories:[periMICA Overview and Functions periMICA General Information periMICA Overview] conversations:[[What is the primary purpose of the periMICA? The periMICA is designed as an edge computing device for IIoT/IoT applications, handling functions such as data preprocessing, local function control, dashboard display, and data forwarding to higher-level IT systems.] [How does the periMICA's modular design benefit users? Its modular design allows for the flexible combination of hardware modules and software applications, enabling customization and adaptation to specific applications and environments.] [What types of software does the periMICA use? The periMICA runs applications in independent software containers on a secure Linux system, utilizing open-source-based software for flexibility and security.] [How can the periMICA's functionality be adjusted between cloud and field? The periMICA can shift functionality between cloud and field environments by using lightweight virtual machines (containers) that are set up similarly to cloud applications.] [What are some typical use cases for the periMICA in IoT applications?  Typical use cases include: data aggregation and preprocessing, local control functions, displaying dashboards, and serving as a local MQTT broker for sensor and actuator data.] [How does the periMICA interact with sensors and actuators? The periMICA is ideally suited for connecting to sensors and actuators, particularly through network connections, and can also function as a bus master for non-Ethernet sensors.] [What types of containers does Perinet provide for the periMICA? Perinet provides containers for various functionalities such as an MQTT broker, local function control, and data preprocessing, which are essential for field-level (I)IoT applications.] [What versions of the periMICA are available for different installations? The periMICA is available in both a robust IP67 version for field use and an IP20 version for installation in control cabinets.] [In what scenarios is the periMICA particularly effective? The periMICA is particularly effective in scenarios requiring localized data processing and management, such as in remote industrial sites, smart factories, and field-level IoT systems.] [How can the periMICA be utilized as a “data center in a box”? By running lightweight containers that mirror cloud application techniques, the periMICA can perform many data processing and management functions locally, acting as a compact data center in the field.] [How does the periMICA support product development? The periMICA's modular hardware and software architecture makes it an ideal base for developing specialized products, especially for low and mid-quantity production at reasonable costs.] [How does the containerized software improve the functionality of periMICA? Containerized software provides modular and isolated environments for running applications, enhancing flexibility and allowing users to deploy and manage different functionalities without conflicts.] [How does the periMICA manage to be versatile in different environments? The periMICA's modular approach and robust construction allow it to be adapted to various environments and applications, providing flexibility and durability in both field and controlled settings.] [How does the periMICA handle data from sensors and actuators? The periMICA processes data from sensors and actuators, handling local data aggregation and preprocessing before forwarding it to higher-level IT systems or cloud platforms.] [What kind of applications can be run on the periMICA? Applications that can be run on the periMICA include those for data preprocessing, local control, dashboard display, and data forwarding, all managed within virtual containers.] [How does the periMICA support the transition of functionality between field and cloud? By utilizing lightweight containers, the periMICA facilitates the easy transition of application functionality between cloud environments and field-level operations.] [How does periMICA's modular approach enhance its flexibility? The modular design allows users to mix and match different hardware and software modules according to their specific needs, making it adaptable to various applications and environments.] [Can users add their own hardware or software to the periMICA? Yes, users can integrate their own hardware and software elements, expanding the functionality of the periMICA beyond the standard modules provided.] [What makes periMICA suitable for both industrial and field-level applications? Its combination of industry-standard hardware and open-source software, along with its robust and adaptable design, makes it suitable for diverse applications from industrial settings to field environments.] [What is the role of periMICA in data management within IoT applications? The periMICA serves as a central point for data aggregation and preprocessing, managing data collected from sensors and actuators before sending it to higher-level IT systems or the cloud.] [How does periMICA facilitate data transmission from sensors to the cloud? It acts as the first stop for data, using its local MQTT broker and other containerized software to efficiently manage and forward data from sensors to cloud-based systems.] [How does periMICA handle data from non-Ethernet sensors? The periMICA can function as a bus master for non-Ethernet sensors, enabling it to process and integrate data from a variety of sensor types.] [What types of containerized applications are included with the periMICA? Included containerized applications are an MQTT broker for messaging, a dashboard editor for visualization, PKI2GO for security management, a MODBUS-TCP bridge for communication, and a JTAG debug container for troubleshooting.] [So, what's the main thing the periMICA is all about? It's an edge computing device for IIoT/IoT stuff. It handles things like prepping data, controlling things locally, showing dashboards, and sending data up to bigger IT systems.] [How does the periMICA's modular design help users? Its modular setup lets you mix and match different hardware parts and software apps, so you can customize it to fit exactly what you need for your specific situation.] [What kind of software runs on the periMICA? It runs apps in separate software containers on a secure Linux system, using open-source software to keep things flexible and secure.] [How can you switch the periMICA's functionality between the cloud and the field? You can move its functions between cloud and field by using lightweight virtual machines (containers) that are set up just like cloud apps.] [What are some common ways people use the periMICA in IoT setups? People typically use it for collecting and prepping data, controlling things locally, displaying dashboards, and acting as a local MQTT broker for sensor and actuator data.] [How does the periMICA connect with sensors and actuators? It's great for hooking up to sensors and actuators, especially over network connections, and it can also act as a bus master for sensors that aren't Ethernet-based.] [What kinds of containers does Perinet offer for the periMICA? They provide containers for things like an MQTT broker, local function control, and data preprocessing, which are key for field-level IoT applications.] [What different versions of the periMICA are there for various setups? You can get it in a tough IP67 version for outdoor or field use and an IP20 version for putting inside control cabinets.] [When is the periMICA especially useful? It's really handy when you need to process and manage data locally, like at remote industrial sites, smart factories, or in field-level IoT systems.] [How can the periMICA work like a “data center in a box”? By running lightweight containers that mimic cloud apps, it can handle a lot of data processing and management right on-site, acting like a compact data center.] [How does the periMICA help with product development? Its modular hardware and software make it a great base for creating specialized products, especially for smaller production runs without breaking the bank.] [How does using containerized software boost the periMICA's functionality? Containerized software creates separate environments for each app, making it more flexible and letting you run different functions without any conflicts.] [How does the periMICA stay versatile in different environments? Its modular design and sturdy build let it adapt to various settings and uses, making it flexible and durable whether it's out in the field or in a controlled space.] [How does the periMICA handle data from sensors and actuators? It processes data from sensors and actuators by collecting and prepping it locally before sending it up to higher-level IT systems or the cloud.] [What kinds of apps can you run on the periMICA? You can run apps for data prepping, local control, showing dashboards, and sending data forward, all managed within virtual containers.] [How does the periMICA make it easy to move functions between the field and the cloud? By using lightweight containers, it's simple to shift app functions between cloud setups and on-site operations.] [How does the periMICA's modular approach make it more flexible? You can mix and match different hardware and software modules based on what you need, making it adaptable to a bunch of different applications and environments.] [Can you add your own hardware or software to the periMICA? Absolutely! You can integrate your own hardware and software to expand what the periMICA can do beyond its standard modules.] [What makes the periMICA a good fit for both industrial and field-level uses? It combines industry-standard hardware with open-source software and has a tough, adaptable design, making it suitable for everything from factory floors to out in the field.] [What's the periMICA's role in managing data for IoT applications? It acts as the central hub for collecting and prepping data from sensors and actuators before sending it up to higher-level IT systems or the cloud.] [How does the periMICA help send data from sensors to the cloud? It serves as the first point of contact for data, using its local MQTT broker and other containerized apps to efficiently manage and forward data to cloud systems.] [How does the periMICA deal with data from non-Ethernet sensors? It can act as a bus master for non-Ethernet sensors, allowing it to process and integrate data from a variety of sensor types.] [What containerized apps come with the periMICA? It includes containers like an MQTT broker for messaging, a dashboard editor for visuals, PKI2GO for security, a MODBUS-TCP bridge for communication, and a JTAG debug container for troubleshooting.] [Hey, what exactly is periMICA used for? The periMICA is designed as an edge computing device for IIoT/IoT applications, handling functions such as data preprocessing, local function control, dashboard display, and data forwarding to higher-level IT systems.] [I'm curious, how does the periMICA's modular design benefit users? Its modular design allows for the flexible combination of hardware modules and software applications, enabling customization and adaptation to specific applications and environments.] [So, what kind of software runs on the periMICA? It runs apps in separate software containers on a secure Linux system, using open-source software to keep things flexible and secure.] [How can you switch the periMICA's functionality between the cloud and the field? You can move its functions between cloud and field by using lightweight virtual machines (containers) that are set up just like cloud apps.] [What are some common ways people use the periMICA in IoT setups? People typically use it for collecting and prepping data, controlling things locally, displaying dashboards, and acting as a local MQTT broker for sensor and actuator data.] [How does the periMICA connect with sensors and actuators? It's great for hooking up to sensors and actuators, especially over network connections, and it can also act as a bus master for sensors that aren't Ethernet-based.] [What kinds of containers does Perinet offer for the periMICA? They provide containers for things like an MQTT broker, local function control, and data preprocessing, which are key for field-level IoT applications.] [What different versions of the periMICA are available for various setups? You can get it in a tough IP67 version for outdoor or field use and an IP20 version for putting inside control cabinets.] [When is the periMICA especially useful? It's really handy when you need to process and manage data locally, like at remote industrial sites, smart factories, or in field-level IoT systems.] [How can the periMICA work like a “data center in a box”? By running lightweight containers that mimic cloud apps, it can handle a lot of data processing and management right on-site, acting like a compact data center.] [How does the periMICA help with product development? Its modular hardware and software make it a great base for creating specialized products, especially for smaller production runs without breaking the bank.] [How does using containerized software boost the periMICA's functionality? Containerized software creates separate environments for each app, making it more flexible and letting you run different functions without any conflicts.] [How does the periMICA stay versatile in different environments? Its modular design and sturdy build let it adapt to various settings and uses, making it flexible and durable whether it's out in the field or in a controlled space.] [How does the periMICA handle data from sensors and actuators? It processes data from sensors and actuators by collecting and prepping it locally before sending it up to higher-level IT systems or the cloud.] [What kinds of apps can you run on the periMICA? You can run apps for data prepping, local control, showing dashboards, and sending data forward, all managed within virtual containers.] [How does the periMICA make it easy to move functions between the field and the cloud? By using lightweight containers, it's simple to shift app functions between cloud setups and on-site operations.] [How does the periMICA's modular approach make it more flexible? You can mix and match different hardware and software modules based on what you need, making it adaptable to a bunch of different applications and environments.] [Can you add your own hardware or software to the periMICA? Absolutely! You can integrate your own hardware and software to expand what the periMICA can do beyond its standard modules.] [What makes the periMICA a good fit for both industrial and field-level uses? It combines industry-standard hardware with open-source software and has a tough, adaptable design, making it suitable for everything from factory floors to out in the field.] [What's the periMICA's role in managing data for IoT applications? It acts as the central hub for collecting and prepping data from sensors and actuators before sending it up to higher-level IT systems or the cloud.] [How does the periMICA help send data from sensors to the cloud? It serves as the first point of contact for data, using its local MQTT broker and other containerized apps to efficiently manage and forward data to cloud systems.] [How does the periMICA deal with data from non-Ethernet sensors? It can act as a bus master for non-Ethernet sensors, letting it process and integrate data from a variety of sensor types.] [What containerized apps come with the periMICA? It includes containers like an MQTT broker for messaging, a dashboard editor for visuals, PKI2GO for security, a MODBUS-TCP bridge for communication, and a JTAG debug container for troubleshooting.] [Modular Design in PeriMICA? Its modular design allows for the flexible combination of hardware modules and software applications, enabling customization and adaptation to specific applications and environments.] [Cloud Switching in perspective of PeriMICA? You can move its functions between cloud and field by using lightweight virtual machines (containers) that are set up just like cloud apps.] [PeriMICA Common Uses? People typically use it for collecting and prepping data, controlling things locally, displaying dashboards, and acting as a local MQTT broker for sensor and actuator data.] [PeriMICA Connectivity Overview? It's great for hooking up to sensors and actuators, especially over network connections, and it can also act as a bus master for sensors that aren't Ethernet-based.] [Containers inside PeriMICA? They provide containers for things like an MQTT broker, local function control, and data preprocessing, which are key for field-level IoT applications.] [PeriMICA Versions? You can get it in a tough IP67 version for outdoor or field use and an IP20 version for putting inside control cabinets.] [Best Use of PeriMICA? It's really handy when you need to process and manage data locally, like at remote industrial sites, smart factories, or in field-level IoT systems.] [Data Center perspective from PeriMICA? By running lightweight containers that mimic cloud apps, it can handle a lot of data processing and management right on-site, acting like a compact data center.] [Product Development? Its modular hardware and software make it a great base for creating specialized products, especially for smaller production runs without breaking the bank.] [Container Benefits in PeriMICA? Containerized software creates separate environments for each app, making it more flexible and letting you run different functions without any conflicts.] [PeriMICA Versatility overview? Its modular design and sturdy build let it adapt to various settings and uses, making it flexible and durable whether it's out in the field or in a controlled space.] [PeriMICA Data Handling? It processes data from sensors and actuators by collecting and prepping it locally before sending it up to higher-level IT systems or the cloud.] [PeriMICA Available Apps? You can run apps for data prepping, local control, showing dashboards, and sending data forward, all managed within virtual containers.] [PeriMICA Function Transfer? By using lightweight containers, it's simple to shift app functions between cloud setups and on-site operations.] [PeriMICA Flexibility? You can mix and match different hardware and software modules based on what you need, making it adaptable to a bunch of different applications and environments.] [Customization details of PeriMICA? Absolutely! You can integrate your own hardware and software to expand what the periMICA can do beyond its standard modules.] [how PeriMICA Industrial Fit? It combines industry-standard hardware with open-source software and has a tough, adaptable design, making it suitable for everything from factory floors to out in the field.] [Data Management in PeriMICA? It acts as the central hub for collecting and prepping data from sensors and actuators before sending it up to higher-level IT systems or the cloud.] [Data Transmission in PeriMICA? It serves as the first point of contact for data, using its local MQTT broker and other containerized apps to efficiently manage and forward data to cloud systems.] [Non-Ethernet condition in PeriMICA? It can act as a bus master for non-Ethernet sensors, letting it process and integrate data from a variety of sensor types.] [Included Apps in PeriMICA? It includes containers like an MQTT broker for messaging, a dashboard editor for visuals, PKI2GO for security, a MODBUS-TCP bridge for communication, and a JTAG debug container for troubleshooting.] [Security overview of PeriMICA? The periMICA uses secure Linux systems and containerized applications to ensure data and operations are protected against threats.] [Scalability from PeriMICA perspective? Its modular and container-based architecture allows the periMICA to scale easily with growing IoT and IIoT demands.] [Maintenance scenarios in PeriMICA? With containerized software, updating and maintaining the periMICA is straightforward, minimizing downtime and ensuring smooth operations.] [Integration part of PeriMICA Overview? It seamlessly integrates with existing IT systems and cloud platforms, making it easy to incorporate into your current infrastructure.] [periMICA purpose? The periMICA is designed as an edge computing device for IIoT/IoT applications, handling functions such as data preprocessing, local function control, dashboard display, and data forwarding to higher-level IT systems.] [periMICA modular? Its modular design allows for the flexible combination of hardware modules and software applications, enabling customization and adaptation to specific applications and environments.] [periMICA software? It runs apps in separate software containers on a secure Linux system, using open-source software to keep things flexible and secure.] [periMICA cloud? You can move its functions between cloud and field by using lightweight virtual machines (containers) that are set up just like cloud apps.] [periMICA uses? People typically use it for collecting and prepping data, controlling things locally, displaying dashboards, and acting as a local MQTT broker for sensor and actuator data.] [periMICA connectivity? It's great for hooking up to sensors and actuators, especially over network connections, and it can also act as a bus master for sensors that aren't Ethernet-based.] [periMICA containers? They provide containers for things like an MQTT broker, local function control, and data preprocessing, which are key for field-level IoT applications.] [periMICA versions? You can get it in a tough IP67 version for outdoor or field use and an IP20 version for putting inside control cabinets.] [periMICA best use? It's really handy when you need to process and manage data locally, like at remote industrial sites, smart factories, or in field-level IoT systems.] [periMICA data center? By running lightweight containers that mimic cloud apps, it can handle a lot of data processing and management right on-site, acting like a compact data center.] [periMICA development? Its modular hardware and software make it a great base for creating specialized products, especially for smaller production runs without breaking the bank.] [periMICA benefits? Containerized software creates separate environments for each app, making it more flexible and letting you run different functions without any conflicts.] [periMICA versatility? Its modular design and sturdy build let it adapt to various settings and uses, making it flexible and durable whether it's out in the field or in a controlled space.] [periMICA data handling? It processes data from sensors and actuators by collecting and prepping it locally before sending it up to higher-level IT systems or the cloud.] [periMICA apps? You can run apps for data prepping, local control, showing dashboards, and sending data forward, all managed within virtual containers.] [periMICA transfer? By using lightweight containers, it's simple to shift app functions between cloud setups and on-site operations.] [periMICA flexibility? You can mix and match different hardware and software modules based on what you need, making it adaptable to a bunch of different applications and environments.] [periMICA customization? Absolutely! You can integrate your own hardware and software to expand what the periMICA can do beyond its standard modules.] [periMICA industrial? It combines industry-standard hardware with open-source software and has a tough, adaptable design, making it suitable for everything from factory floors to out in the field.] [periMICA data management? It acts as the central hub for collecting and prepping data from sensors and actuators before sending it up to higher-level IT systems or the cloud.] [periMICA transmission? It serves as the first point of contact for data, using its local MQTT broker and other containerized apps to efficiently manage and forward data to cloud systems.] [periMICA non-Ethernet? It can act as a bus master for non-Ethernet sensors, letting it process and integrate data from a variety of sensor types.] [periMICA included apps? It includes containers like an MQTT broker for messaging, a dashboard editor for visuals, PKI2GO for security, a MODBUS-TCP bridge for communication, and a JTAG debug container for troubleshooting.] [periMICA security? The periMICA uses secure Linux systems and containerized applications to ensure data and operations are protected against threats.] [periMICA scalability? Its modular and container-based architecture allows the periMICA to scale easily with growing IoT and IIoT demands.] [periMICA maintenance? With containerized software, updating and maintaining the periMICA is straightforward, minimizing downtime and ensuring smooth operations.] [periMICA integration? It seamlessly integrates with existing IT systems and cloud platforms, making it easy to incorporate into your current infrastructure.] [periMICA purpose? The periMICA is designed as an edge computing device for IIoT/IoT applications, handling functions such as data preprocessing, local function control, dashboard display, and data forwarding to higher-level IT systems.] [periMICA modular? Its modular design allows for the flexible combination of hardware modules and software applications, enabling customization and adaptation to specific applications and environments.] [periMICA software? It runs apps in separate software containers on a secure Linux system, using open-source software to keep things flexible and secure.] [periMICA cloud? You can move its functions between cloud and field by using lightweight virtual machines (containers) that are set up just like cloud apps.] [periMICA uses? People typically use it for collecting and prepping data, controlling things locally, displaying dashboards, and acting as a local MQTT broker for sensor and actuator data.] [periMICA connectivity? It's great for hooking up to sensors and actuators, especially over network connections, and it can also act as a bus master for sensors that aren't Ethernet-based.] [periMICA containers? They provide containers for things like an MQTT broker, local function control, and data preprocessing, which are key for field-level IoT applications.] [periMICA versions? You can get it in a tough IP67 version for outdoor or field use and an IP20 version for putting inside control cabinets.] [periMICA best use? It's really handy when you need to process and manage data locally, like at remote industrial sites, smart factories, or in field-level IoT systems.] [periMICA data center? By running lightweight containers that mimic cloud apps, it can handle a lot of data processing and management right on-site, acting like a compact data center.] [periMICA development? Its modular hardware and software make it a great base for creating specialized products, especially for smaller production runs without breaking the bank.] [periMICA benefits? Containerized software creates separate environments for each app, making it more flexible and letting you run different functions without any conflicts.] [periMICA versatility? Its modular design and sturdy build let it adapt to various settings and uses, making it flexible and durable whether it's out in the field or in a controlled space.] [periMICA data handling? It processes data from sensors and actuators by collecting and prepping it locally before sending it up to higher-level IT systems or the cloud.] [periMICA apps? You can run apps for data prepping, local control, showing dashboards, and sending data forward, all managed within virtual containers.] [periMICA transfer? By using lightweight containers, it's simple to shift app functions between cloud setups and on-site operations.] [periMICA flexibility? You can mix and match different hardware and software modules based on what you need, making it adaptable to a bunch of different applications and environments.] [periMICA customization? Absolutely! You can integrate your own hardware and software to expand what the periMICA can do beyond its standard modules.] [periMICA industrial? It combines industry-standard hardware with open-source software and has a tough, adaptable design, making it suitable for everything from factory floors to out in the field.] [periMICA data management? It acts as the central hub for collecting and prepping data from sensors and actuators before sending it up to higher-level IT systems or the cloud.] [periMICA transmission? It serves as the first point of contact for data, using its local MQTT broker and other containerized apps to efficiently manage and forward data to cloud systems.] [periMICA non-Ethernet? It can act as a bus master for non-Ethernet sensors, letting it process and integrate data from a variety of sensor types.] [periMICA included apps? It includes containers like an MQTT broker for messaging, a dashboard editor for visuals, PKI2GO for security, a MODBUS-TCP bridge for communication, and a JTAG debug container for troubleshooting.] [periMICA security? The periMICA uses secure Linux systems and containerized applications to ensure data and operations are protected against threats.] [periMICA scalability? Its modular and container-based architecture allows the periMICA to scale easily with growing IoT and IIoT demands.] [periMICA maintenance? With containerized software, updating and maintaining the periMICA is straightforward, minimizing downtime and ensuring smooth operations.] [periMICA integration? It seamlessly integrates with existing IT systems and cloud platforms, making it easy to incorporate into your current infrastructure.] [Hey, what's the main purpose of periMICA? The periMICA is designed as an edge computing device for IIoT/IoT applications, handling functions such as data preprocessing, local function control, dashboard display, and data forwarding to higher-level IT systems.] [How does the modular design of periMICA benefit users? Its modular design allows for the flexible combination of hardware modules and software applications, enabling customization and adaptation to specific applications and environments.] [What type of software runs on periMICA? It runs apps in separate software containers on a secure Linux system, using open-source software to keep things flexible and secure.] [Can you switch periMICA's functionality between cloud and field easily? You can move its functions between cloud and field by using lightweight virtual machines (containers) that are set up just like cloud apps.] [What are some common uses for periMICA in IoT setups? People typically use it for collecting and prepping data, controlling things locally, displaying dashboards, and acting as a local MQTT broker for sensor and actuator data.] [How does periMICA connect with sensors and actuators? It's great for hooking up to sensors and actuators, especially over network connections, and it can also act as a bus master for sensors that aren't Ethernet-based.] [What kinds of containers does Perinet offer for periMICA? They provide containers for things like an MQTT broker, local function control, and data preprocessing, which are key for field-level IoT applications.] [What different versions of periMICA are available? You can get it in a tough IP67 version for outdoor or field use and an IP20 version for putting inside control cabinets.] [When is periMICA especially useful? It's really handy when you need to process and manage data locally, like at remote industrial sites, smart factories, or in field-level IoT systems.] [How can periMICA act like a “data center in a box”? By running lightweight containers that mimic cloud apps, it can handle a lot of data processing and management right on-site, acting like a compact data center.] [How does periMICA assist with product development? Its modular hardware and software make it a great base for creating specialized products, especially for smaller production runs without breaking the bank.] [What are the benefits of using containerized software on periMICA? Containerized software creates separate environments for each app, making it more flexible and letting you run different functions without any conflicts.] [How does periMICA maintain versatility in different environments? Its modular design and sturdy build let it adapt to various settings and uses, making it flexible and durable whether it's out in the field or in a controlled space.] [How does periMICA handle data from sensors and actuators? It processes data from sensors and actuators by collecting and prepping it locally before sending it up to higher-level IT systems or the cloud.] [What types of apps can you run on periMICA? You can run apps for data prepping, local control, showing dashboards, and sending data forward, all managed within virtual containers.] [How does periMICA facilitate moving functions between the field and the cloud? By using lightweight containers, it's simple to shift app functions between cloud setups and on-site operations.] [In what ways does periMICA's modular approach enhance flexibility? You can mix and match different hardware and software modules based on what you need, making it adaptable to a bunch of different applications and environments.] [Can you customize periMICA with your own hardware or software? Absolutely! You can integrate your own hardware and software to expand what the periMICA can do beyond its standard modules.] [Why is periMICA a good fit for both industrial and field-level uses? It combines industry-standard hardware with open-source software and has a tough, adaptable design, making it suitable for everything from factory floors to out in the field.] [What role does periMICA play in managing data for IoT applications? It acts as the central hub for collecting and prepping data from sensors and actuators before sending it up to higher-level IT systems or the cloud.] [How does periMICA help in transmitting data from sensors to the cloud? It serves as the first point of contact for data, using its local MQTT broker and other containerized apps to efficiently manage and forward data to cloud systems.] [How does periMICA handle data from non-Ethernet sensors? It can act as a bus master for non-Ethernet sensors, letting it process and integrate data from a variety of sensor types.] [What containerized apps are included with periMICA? It includes containers like an MQTT broker for messaging, a dashboard editor for visuals, PKI2GO for security, a MODBUS-TCP bridge for communication, and a JTAG debug container for troubleshooting.] [How does periMICA ensure security? The periMICA uses secure Linux systems and containerized applications to ensure data and operations are protected against threats.] [Is periMICA scalable for growing IoT needs? Its modular and container-based architecture allows the periMICA to scale easily with growing IoT and IIoT demands.] [How easy is it to maintain periMICA? With containerized software, updating and maintaining the periMICA is straightforward, minimizing downtime and ensuring smooth operations.] [Can periMICA integrate with existing IT systems? It seamlessly integrates with existing IT systems and cloud platforms, making it easy to incorporate into your current infrastructure.] [How does periMICA handle data preprocessing? The periMICA handles data preprocessing by collecting and preparing data locally before forwarding it to higher-level systems.] [What local control functions does periMICA manage? It manages local control functions, allowing for on-site management of various operations without relying solely on cloud systems.] [Can periMICA display dashboards on-site? The device can display dashboards, providing real-time visualization of data and system status directly on-site.] [How does periMICA forward processed data? It forwards processed data to higher-level IT systems or cloud platforms, ensuring seamless data flow and integration.] [How does periMICA adapt to specific field applications? Its modular design enables adaptation to specific field applications and environments, enhancing its utility in diverse settings.] [Why is open-source software important for periMICA? The use of open-source software on periMICA ensures flexibility and security, allowing for easier customization and updates.] [What makes the Linux system on periMICA secure? Running on a secure Linux system, the periMICA ensures that all applications and data are protected against unauthorized access.] [How does periMICA utilize edge computing? As an edge computing device, periMICA processes data closer to where it's generated, reducing latency and improving efficiency.] [What is the role of the local MQTT broker in periMICA? Acting as a local MQTT broker, the periMICA efficiently manages communication between sensors, actuators, and other devices on-site.]]]
+2024/11/04 12:46:26 Parsed sanitized content for Corpus\en\Perinet\perinet.yml: map[categories:[Perinet perinet PERINET perinetGMBH] conversations:[[What is perinet vision Perinet's vision is to seamlessly connect sensors and actuators to IT systems via continuous network communication.] [what is perinet? Perinet focuses on the seamless connection of sensors and actuators to IT-systems (e.g. ERP)] [what is perinet Perinet develop and produce new, innovative electronic and electromechanical components based on state-of-the-art technologies and the software to enable them.] [Perinet focus? Perinet focuses on the seamless connection of sensors and actuators to IT systems (e.g. BDE) in order to improve transparency and analytics in the operational value chain.]]]
+2024/11/04 12:46:26 Parsed sanitized content for Corpus\en\SmallTalk\greetings.yml: map[categories:[greetings] conversations:[[Hello Hi] [Hi Hello] [Greetings! Hello] [Hello Greetings!] [Hi, How is it going? Good] [Hi, How is it going? Fine] [Hi, How is it going? Okay] [Hi, How is it going? Great] [Hi, How is it going? Could be better.] [Hi, How is it going? Not so great.] [How are you doing? Good.] [How are you doing? Very well, thanks.] [How are you doing? Fine, and you?] [Nice to meet you. Thank you.] [How do you do? I'm doing well.] [How do you do? I'm doing well. How are you?] [Hi, nice to meet you. Thank you. You too.] [It is a pleasure to meet you. Thank you. You too.] [Top of the morning to you! Thank you kindly.] [Top of the morning to you! And the rest of the day to you.] [What's up? Not much.] [What's up? Not too much.] [What's up? Not much, how about you?] [What's up? Nothing much.] [What's up? The sky's up but I'm fine thanks. What about you?]]]
+2024/11/04 12:46:32 yaml: unmarshal errors:
+  line 15: cannot unmarshal !!map into string
+2024/11/04 12:49:37 Config File: ../config_local.yaml
+2024/11/04 12:49:37 Directory: Corpus/en
+2024/11/04 12:49:37 Corpora: 
+2024/11/04 12:49:37 Store File: ../chat/PMFuncOverview.gob
+2024/11/04 12:49:37 Print Memory Stats: true
+2024/11/04 12:49:37 Log File: train.log
+2024/11/04 12:49:37 Extensions: [json yml yaml]
+2024/11/04 12:49:37 Found corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/04 12:49:37 Training on corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/04 12:49:42 yaml: unmarshal errors:
+  line 15: cannot unmarshal !!map into string
+2024/11/04 12:57:58 Config File: ../config_local.yaml
+2024/11/04 12:57:58 Directory: Corpus/en
+2024/11/04 12:57:58 Corpora: 
+2024/11/04 12:57:58 Store File: ../chat/PMFuncOverview.gob
+2024/11/04 12:57:58 Print Memory Stats: true
+2024/11/04 12:57:58 Log File: train.log
+2024/11/04 12:57:58 Extensions: [json yml yaml]
+2024/11/04 12:57:58 Found corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/04 12:57:58 Training on corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/04 12:58:04 Training completed successfully in 48.5292ms.
+2024/11/04 12:58:33 Config File: ../config_local.yaml
+2024/11/04 12:58:33 Directory: Corpus/en
+2024/11/04 12:58:33 Corpora: 
+2024/11/04 12:58:33 Store File: ../chat/PMFuncOverview.gob
+2024/11/04 12:58:33 Print Memory Stats: true
+2024/11/04 12:58:33 Log File: train.log
+2024/11/04 12:58:33 Extensions: [json yml yaml]
+2024/11/04 12:58:33 Found corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/04 12:58:33 Training on corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/04 12:58:40 Training completed successfully in 62.2205ms.
+2024/11/04 13:02:23 Config File: ../config_local.yaml
+2024/11/04 13:02:23 Directory: Corpus/en
+2024/11/04 13:02:23 Corpora: 
+2024/11/04 13:02:23 Store File: ../chat/PMFuncOverview.gob
+2024/11/04 13:02:23 Print Memory Stats: true
+2024/11/04 13:02:23 Log File: train.log
+2024/11/04 13:02:23 Extensions: [json yml yaml]
+2024/11/04 13:02:23 Found corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/04 13:02:23 Training on corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/04 13:02:28 Training completed successfully in 52.0866ms.
+2024/11/04 13:03:37 Config File: ../config_local.yaml
+2024/11/04 13:03:37 Directory: Corpus/en
+2024/11/04 13:03:37 Corpora: 
+2024/11/04 13:03:37 Store File: ../chat/PMFuncOverview.gob
+2024/11/04 13:03:37 Print Memory Stats: true
+2024/11/04 13:03:37 Log File: train.log
+2024/11/04 13:03:37 Extensions: [json yml yaml]
+2024/11/04 13:03:37 Found corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/04 13:03:37 Training on corpora files: [Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/04 13:03:43 Training completed successfully in 59.8513ms.
+2024/11/06 14:29:14 Config File: ../config_local.yaml
+2024/11/06 14:29:14 Directory: Corpus/en
+2024/11/06 14:29:14 Corpora: 
+2024/11/06 14:29:14 Store File: ../chat/PMFuncOverview.gob
+2024/11/06 14:29:14 Print Memory Stats: true
+2024/11/06 14:29:14 Log File: train.log
+2024/11/06 14:29:14 Extensions: [json yml yaml]
+2024/11/06 14:29:14 Found corpora files: [Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/06 14:29:14 Training on corpora files: [Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/06 14:29:18 Training completed successfully in 30.6042ms.
+2024/11/07 11:53:43 Config File: ../config_local.yaml
+2024/11/07 11:53:43 Directory: Corpus/en
+2024/11/07 11:53:43 Corpora: 
+2024/11/07 11:53:43 Store File: ../chat/PMFuncOverview.gob
+2024/11/07 11:53:43 Print Memory Stats: true
+2024/11/07 11:53:43 Log File: train.log
+2024/11/07 11:53:43 Extensions: [json yml yaml]
+2024/11/07 11:53:43 Found corpora files: [Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/07 11:53:43 Training on corpora files: [Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/07 11:53:46 Training completed successfully in 35.3675ms.

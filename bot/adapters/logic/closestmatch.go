@@ -5,8 +5,9 @@ import (
 	"math"
 	"sort"
 
-	"github.com/kevwan/chatbot/bot/adapters/storage"
-	"github.com/kevwan/chatbot/bot/nlp"
+	"golangChatBot/bot/adapters/storage"
+	"golangChatBot/bot/nlp"
+
 	"github.com/zeromicro/go-zero/core/mr"
 )
 

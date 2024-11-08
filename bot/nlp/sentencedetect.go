@@ -9,14 +9,12 @@ import (
 
 var (
 	embededQuestionMarks = []string{
-		"什么", "为何", "干嘛", "干吗", "怎么", "咋",
+		"was", "warum", "wieso", "weshalb", "wie", "wo", "wann",
 	}
 
 	endQuestionChars = createSet([]rune{
 		'?',
 		'？',
-		'吗',
-		'么',
 	})
 )
 

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/kevwan/chatbot/bot/adapters/storage"
-	"github.com/kevwan/chatbot/bot/corpus"
+	"golangChatBot/bot/adapters/storage"
+	"golangChatBot/bot/corpus"
 )
 
 type (

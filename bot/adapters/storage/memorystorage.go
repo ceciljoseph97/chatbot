@@ -15,21 +15,24 @@ import (
 )
 
 const (
-	chunkSize              = 10000
-	topKeywords            = 5
-	thresholdForKeywords   = 5
-	maxSearchResults       = 100
-	thresholdForStopWords  = 100
-	dictFile               = "../etc/dict.txt"
-	idfFile                = "../etc/idf.txt"
-	stopWordsFile          = "../etc/stop_words.txt"
-	generatedStopWordsFile = "../etc/stopwords.txt"
+	chunkSize             = 10000
+	topKeywords           = 5
+	thresholdForKeywords  = 5
+	maxSearchResults      = 100
+	thresholdForStopWords = 100
 )
+
+type Config struct {
+	DictFile               string
+	IdfFile                string
+	StopWordsFile          string
+	GeneratedStopWordsFile string
+}
 
 type (
 	keyChunk struct {
-		offfset int
-		keys    []string
+		offset int
+		keys   []string
 	}
 
 	memoryStorage struct {
@@ -39,16 +42,17 @@ type (
 		keys      []string
 		responses map[string]map[string]int
 		indexes   map[string][]int
+		config    Config
 	}
 )
 
-func RestoreMemoryStorage(decoder *gob.Decoder) (*memoryStorage, error) {
+func RestoreMemoryStorage(decoder *gob.Decoder, config Config) (*memoryStorage, error) {
 	var segmenter jiebago.Segmenter
-	logx.Must(segmenter.LoadDictionary(dictFile))
+	logx.Must(segmenter.LoadDictionary(config.DictFile))
 	var extracter analyse.TagExtracter
-	logx.Must(extracter.LoadDictionary(dictFile))
-	logx.Must(extracter.LoadIdf(idfFile))
-	logx.Must(extracter.LoadStopWords(stopWordsFile))
+	logx.Must(extracter.LoadDictionary(config.DictFile))
+	logx.Must(extracter.LoadIdf(config.IdfFile))
+	logx.Must(extracter.LoadStopWords(config.StopWordsFile))
 
 	var keys []string
 	responses := make(map[string]map[string]int)
@@ -72,22 +76,24 @@ func RestoreMemoryStorage(decoder *gob.Decoder) (*memoryStorage, error) {
 		keys:      keys,
 		responses: responses,
 		indexes:   indexes,
+		config:    config,
 	}, nil
 }
 
-func NewMemoryStorage() *memoryStorage {
+func NewMemoryStorage(config Config) *memoryStorage {
 	var segmenter jiebago.Segmenter
-	logx.Must(segmenter.LoadDictionary(dictFile))
+	logx.Must(segmenter.LoadDictionary(config.DictFile))
 	var extracter analyse.TagExtracter
-	logx.Must(extracter.LoadDictionary(dictFile))
-	logx.Must(extracter.LoadIdf(idfFile))
-	logx.Must(extracter.LoadStopWords(stopWordsFile))
+	logx.Must(extracter.LoadDictionary(config.DictFile))
+	logx.Must(extracter.LoadIdf(config.IdfFile))
+	logx.Must(extracter.LoadStopWords(config.StopWordsFile))
 
 	return &memoryStorage{
 		segmenter: &segmenter,
 		extracter: &extracter,
 		responses: make(map[string]map[string]int),
 		indexes:   make(map[string][]int),
+		config:    config,
 	}
 }
 
@@ -178,21 +184,13 @@ func (storage *memoryStorage) buildKeys() []string {
 }
 
 func (storage *memoryStorage) buildIndex(keys []string) map[string][]int {
-	channel := make(chan *keyChunk)
-
-	go func() {
-		chunks := splitStrings(keys, chunkSize)
-		for i := range chunks {
-			channel <- chunks[i]
-		}
-		close(channel)
-	}()
-
 	result, err := mr.MapReduce(func(source chan<- *keyChunk) {
 		chunks := splitStrings(keys, chunkSize)
 		for i := range chunks {
 			source <- chunks[i]
 		}
+		// Removed the explicit close(source) call
+		// The mr.MapReduce function handles channel closure internally
 	}, storage.mapper, storage.reducer)
 	if err != nil {
 		fmt.Printf("error: %v\n", err)
@@ -203,7 +201,7 @@ func (storage *memoryStorage) buildIndex(keys []string) map[string][]int {
 }
 
 func (storage *memoryStorage) saveStopWords() {
-	f, err := os.Create(generatedStopWordsFile)
+	f, err := os.Create(storage.config.GeneratedStopWordsFile)
 	if err != nil {
 		return
 	}
@@ -307,12 +305,11 @@ func (storage *memoryStorage) mapper(chunk *keyChunk, writer mr.Writer[map[strin
 	for i := range chunk.keys {
 		collector := func(word string) {
 			if ids, ok := indexes[word]; ok {
-				// ids is never empty
-				if ids[len(ids)-1] != chunk.offfset+i {
-					indexes[word] = append(ids, chunk.offfset+i)
+				if ids[len(ids)-1] != chunk.offset+i {
+					indexes[word] = append(ids, chunk.offset+i)
 				}
 			} else {
-				indexes[word] = []int{chunk.offfset + i}
+				indexes[word] = []int{chunk.offset + i}
 			}
 		}
 
@@ -374,8 +371,8 @@ func splitStrings(slice []string, size int) []*keyChunk {
 			end = count
 		}
 		result = append(result, &keyChunk{
-			offfset: i,
-			keys:    slice[i:end],
+			offset: i,
+			keys:   slice[i:end],
 		})
 	}
 
