@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PeriChat</title>
+    <script>
+        var useWebSocket = false;
+        var ws;
+
+        function init() {
+            if (window.WebSocket) {
+                ws = new WebSocket("ws://" + window.location.host + "/ws");
+
+                ws.onopen = function() {
+                    console.log("WebSocket connection established.");
+                    useWebSocket = true;
+                };
+
+                ws.onmessage = function(event) {
+                    var data = event.data;
+                    var chatWindow = document.getElementById('chatWindow');
+                    chatWindow.value += 'PeriChat: ' + data + '\n\n';
+                };
+
+                ws.onclose = function() {
+                    console.log("WebSocket connection closed.");
+                    useWebSocket = false;
+                };
+
+                ws.onerror = function(error) {
+                    console.error("WebSocket error:", error);
+                    useWebSocket = false;
+                };
+            } else {
+                console.log("WebSocket not supported by this browser.");
+            }
+        }
+
+        function sendMessage() {
+            var message = document.getElementById('message').value;
+            if (message.trim() === '') {
+                alert('Please enter a message.');
+                return;
+            }
+
+            var chatWindow = document.getElementById('chatWindow');
+            chatWindow.value += 'User: ' + message + '\n';
+
+            if (useWebSocket && ws.readyState === WebSocket.OPEN) {
+                ws.send(message);
+            } else {
+                fetch('/chat', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ message: message }),
+                })
+                .then(response => response.json())
+                .then(data => {
+                    chatWindow.value += 'PeriChat: ' + data.reply + '\n\n';
+                    document.getElementById('message').value = '';
+                })
+                .catch((error) => {
+                    console.error('Error:', error);
+                    alert('Error: ' + error.message);
+                });
+            }
+            document.getElementById('message').value = '';
+        }
+
+        window.onload = function() {
+            init();
+        };
+    </script>
+</head>
+<body>
+    <h1>PeriChat</h1>
+    <textarea id="chatWindow" rows="20" cols="80" readonly></textarea><br>
+    <input type="text" id="message" size="80">
+    <button onclick="sendMessage()">Send</button>
+</body>
+</html>

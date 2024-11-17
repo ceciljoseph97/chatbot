@@ -33,7 +33,6 @@ var (
 	extensions    = flag.String("ext", "json,yml,yaml", "file extensions to look for, separated by commas")
 )
 
-// for handling special Characters in Conversation areas
 func preprocessYAMLFile(filename string) (string, error) {
 	data, err := os.ReadFile(filename)
 	if err != nil {
@@ -181,7 +180,7 @@ func findCorporaFiles(dir string, extensions []string) []string {
 	err := filepath.Walk(dir, func(path string, info os.FileInfo, err error) error {
 		if err != nil {
 			log.Printf("Error accessing path %s: %v", path, err)
-			return nil // Continue walking
+			return nil
 		}
 		if !info.IsDir() {
 			ext := strings.ToLower(filepath.Ext(info.Name()))

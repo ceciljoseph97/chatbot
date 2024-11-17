@@ -393,3 +393,303 @@ main.main()
 2024/11/07 11:53:43 Found corpora files: [Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
 2024/11/07 11:53:43 Training on corpora files: [Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
 2024/11/07 11:53:46 Training completed successfully in 35.3675ms.
+2024/11/11 12:52:55 Config File: ../config_local.yaml
+2024/11/11 12:52:55 Directory: Corpus/en
+2024/11/11 12:52:55 Corpora: 
+2024/11/11 12:52:55 Store File: ../chat/PMFuncOverview.gob
+2024/11/11 12:52:55 Print Memory Stats: true
+2024/11/11 12:52:55 Log File: train.log
+2024/11/11 12:52:55 Extensions: [json yml yaml]
+2024/11/11 12:52:55 Found corpora files: [Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/11 12:52:55 Training on corpora files: [Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/11 12:53:03 Training completed successfully in 72.9906ms.
+2024/11/12 11:46:39 Config File: ../config_local.yaml
+2024/11/12 11:46:39 Directory: Corpus/en
+2024/11/12 11:46:39 Corpora: 
+2024/11/12 11:46:39 Store File: ../chat/PMFuncOverview.gob
+2024/11/12 11:46:39 Print Memory Stats: true
+2024/11/12 11:46:39 Log File: train.log
+2024/11/12 11:46:39 Extensions: [json yml yaml]
+2024/11/12 11:46:39 Found corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 11:46:39 Training on corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 11:46:44 Training completed successfully in 78.181353ms.
+2024/11/12 11:48:39 Config File: ../config_local.yaml
+2024/11/12 11:48:39 Directory: Corpus/en
+2024/11/12 11:48:39 Corpora: 
+2024/11/12 11:48:39 Store File: ../chat/PMFuncOverview.gob
+2024/11/12 11:48:39 Print Memory Stats: true
+2024/11/12 11:48:39 Log File: train.log
+2024/11/12 11:48:39 Extensions: [json yml yaml]
+2024/11/12 11:48:39 Found corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 11:48:39 Training on corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 11:48:44 Training completed successfully in 74.602812ms.
+2024/11/12 11:50:03 Config File: ../config_local.yaml
+2024/11/12 11:50:03 Directory: Corpus/en
+2024/11/12 11:50:03 Corpora: 
+2024/11/12 11:50:03 Store File: ../chat/PMFuncOverview.gob
+2024/11/12 11:50:03 Print Memory Stats: true
+2024/11/12 11:50:03 Log File: train.log
+2024/11/12 11:50:03 Extensions: [json yml yaml]
+2024/11/12 11:50:03 Found corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 11:50:03 Training on corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 11:50:09 Training completed successfully in 66.039305ms.
+2024/11/12 11:56:13 Config File: ../config_local.yaml
+2024/11/12 11:56:13 Directory: Corpus/en
+2024/11/12 11:56:13 Corpora: 
+2024/11/12 11:56:13 Store File: ../chat/PMFuncOverview.gob
+2024/11/12 11:56:13 Print Memory Stats: true
+2024/11/12 11:56:13 Log File: train.log
+2024/11/12 11:56:13 Extensions: [json yml yaml]
+2024/11/12 11:56:13 Found corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 11:56:13 Training on corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 11:56:21 Training completed successfully in 103.4168ms.
+2024/11/12 12:08:39 Config File: ../config_local.yaml
+2024/11/12 12:08:39 Directory: Corpus/en
+2024/11/12 12:08:39 Corpora: 
+2024/11/12 12:08:39 Store File: ../chat/PMFuncOverview.gob
+2024/11/12 12:08:39 Print Memory Stats: true
+2024/11/12 12:08:39 Log File: train.log
+2024/11/12 12:08:39 Extensions: [json yml yaml]
+2024/11/12 12:08:39 Found corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:08:39 Training on corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:08:45 Training completed successfully in 69.223698ms.
+2024/11/12 12:12:02 Config File: ../config_local.yaml
+2024/11/12 12:12:02 Directory: Corpus/en
+2024/11/12 12:12:02 Corpora: 
+2024/11/12 12:12:02 Store File: ../chat/PMFuncOverview.gob
+2024/11/12 12:12:02 Print Memory Stats: true
+2024/11/12 12:12:02 Log File: train.log
+2024/11/12 12:12:02 Extensions: [json yml yaml]
+2024/11/12 12:12:02 Found corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:12:02 Training on corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:12:07 Training completed successfully in 61.8835ms.
+2024/11/12 12:13:39 Config File: ../config_local.yaml
+2024/11/12 12:13:39 Directory: Corpus/en
+2024/11/12 12:13:39 Corpora: 
+2024/11/12 12:13:39 Store File: ../chat/PMFuncOverview.gob
+2024/11/12 12:13:39 Print Memory Stats: true
+2024/11/12 12:13:39 Log File: train.log
+2024/11/12 12:13:39 Extensions: [json yml yaml]
+2024/11/12 12:13:40 Found corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:13:40 Training on corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:13:45 Training completed successfully in 59.960797ms.
+2024/11/12 12:14:53 Config File: ../config_local.yaml
+2024/11/12 12:14:53 Directory: Corpus/en
+2024/11/12 12:14:53 Corpora: 
+2024/11/12 12:14:53 Store File: ../chat/PMFuncOverview.gob
+2024/11/12 12:14:53 Print Memory Stats: true
+2024/11/12 12:14:53 Log File: train.log
+2024/11/12 12:14:53 Extensions: [json yml yaml]
+2024/11/12 12:14:53 Found corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:14:53 Training on corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:14:59 Training completed successfully in 67.349547ms.
+2024/11/12 12:17:52 Config File: ../config_local.yaml
+2024/11/12 12:17:52 Directory: Corpus/en
+2024/11/12 12:17:52 Corpora: 
+2024/11/12 12:17:52 Store File: ../chat/PMFuncOverview.gob
+2024/11/12 12:17:52 Print Memory Stats: true
+2024/11/12 12:17:52 Log File: train.log
+2024/11/12 12:17:52 Extensions: [json yml yaml]
+2024/11/12 12:17:52 Found corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:17:52 Training on corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:17:57 Training completed successfully in 57.715317ms.
+2024/11/12 12:18:11 Config File: ../config_local.yaml
+2024/11/12 12:18:11 Directory: Corpus/en
+2024/11/12 12:18:11 Corpora: 
+2024/11/12 12:18:11 Store File: ../chat/PMFuncOverview.gob
+2024/11/12 12:18:11 Print Memory Stats: true
+2024/11/12 12:18:11 Log File: train.log
+2024/11/12 12:18:11 Extensions: [json yml yaml]
+2024/11/12 12:18:11 Found corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:18:11 Training on corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:18:16 Training completed successfully in 69.218704ms.
+2024/11/12 12:20:31 Config File: ../config_local.yaml
+2024/11/12 12:20:31 Directory: Corpus/en
+2024/11/12 12:20:31 Corpora: 
+2024/11/12 12:20:31 Store File: ../chat/PMFuncOverview.gob
+2024/11/12 12:20:31 Print Memory Stats: true
+2024/11/12 12:20:31 Log File: train.log
+2024/11/12 12:20:31 Extensions: [json yml yaml]
+2024/11/12 12:20:31 Found corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:20:31 Training on corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:20:37 Training completed successfully in 68.477642ms.
+2024/11/12 12:23:01 Config File: ../config_local.yaml
+2024/11/12 12:23:01 Directory: Corpus/en
+2024/11/12 12:23:01 Corpora: 
+2024/11/12 12:23:01 Store File: ../chat/PMFuncOverview.gob
+2024/11/12 12:23:01 Print Memory Stats: true
+2024/11/12 12:23:01 Log File: train.log
+2024/11/12 12:23:01 Extensions: [json yml yaml]
+2024/11/12 12:23:01 Found corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:23:01 Training on corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:23:06 Training completed successfully in 79.523788ms.
+2024/11/12 12:24:10 Config File: ../config_local.yaml
+2024/11/12 12:24:10 Directory: Corpus/en
+2024/11/12 12:24:10 Corpora: 
+2024/11/12 12:24:10 Store File: ../chat/PMFuncOverview.gob
+2024/11/12 12:24:10 Print Memory Stats: true
+2024/11/12 12:24:10 Log File: train.log
+2024/11/12 12:24:10 Extensions: [json yml yaml]
+2024/11/12 12:24:10 Found corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:24:10 Training on corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:24:15 Training completed successfully in 64.328573ms.
+2024/11/12 12:26:26 Config File: ../config_local.yaml
+2024/11/12 12:26:26 Directory: Corpus/en
+2024/11/12 12:26:26 Corpora: 
+2024/11/12 12:26:26 Store File: ../chat/PMFuncOverview.gob
+2024/11/12 12:26:26 Print Memory Stats: true
+2024/11/12 12:26:26 Log File: train.log
+2024/11/12 12:26:26 Extensions: [json yml yaml]
+2024/11/12 12:26:27 Found corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:26:27 Training on corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:26:35 Training completed successfully in 75.877763ms.
+2024/11/12 12:28:00 Config File: ../config_local.yaml
+2024/11/12 12:28:00 Directory: Corpus/en
+2024/11/12 12:28:00 Corpora: 
+2024/11/12 12:28:00 Store File: ../chat/PMFuncOverview.gob
+2024/11/12 12:28:00 Print Memory Stats: true
+2024/11/12 12:28:00 Log File: train.log
+2024/11/12 12:28:00 Extensions: [json yml yaml]
+2024/11/12 12:28:00 Found corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:28:00 Training on corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:28:10 Training completed successfully in 156.40301ms.
+2024/11/12 12:42:00 Config File: ../config_local.yaml
+2024/11/12 12:42:00 Directory: Corpus/en
+2024/11/12 12:42:00 Corpora: 
+2024/11/12 12:42:00 Store File: ../chat/PMFuncOverview.gob
+2024/11/12 12:42:00 Print Memory Stats: true
+2024/11/12 12:42:00 Log File: train.log
+2024/11/12 12:42:00 Extensions: [json yml yaml]
+2024/11/12 12:42:00 Found corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:42:00 Training on corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:42:11 Training completed successfully in 121.442891ms.
+2024/11/12 12:43:15 Config File: ../config_local.yaml
+2024/11/12 12:43:15 Directory: Corpus/en
+2024/11/12 12:43:15 Corpora: 
+2024/11/12 12:43:15 Store File: ../chat/PMFuncOverview.gob
+2024/11/12 12:43:15 Print Memory Stats: true
+2024/11/12 12:43:15 Log File: train.log
+2024/11/12 12:43:15 Extensions: [json yml yaml]
+2024/11/12 12:43:15 Found corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:43:15 Training on corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 12:43:24 Training completed successfully in 129.710553ms.
+2024/11/12 13:00:01 Config File: ../config_local.yaml
+2024/11/12 13:00:01 Directory: Corpus/en
+2024/11/12 13:00:01 Corpora: 
+2024/11/12 13:00:01 Store File: ../chat/PMFuncOverview.gob
+2024/11/12 13:00:01 Print Memory Stats: true
+2024/11/12 13:00:01 Log File: train.log
+2024/11/12 13:00:01 Extensions: [json yml yaml]
+2024/11/12 13:00:01 Found corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 13:00:01 Training on corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 13:00:06 Training completed successfully in 60.046396ms.
+2024/11/12 13:02:06 Config File: ../config_local.yaml
+2024/11/12 13:02:06 Directory: Corpus/en
+2024/11/12 13:02:06 Corpora: 
+2024/11/12 13:02:06 Store File: ../chat/PMFuncOverview.gob
+2024/11/12 13:02:06 Print Memory Stats: true
+2024/11/12 13:02:06 Log File: train.log
+2024/11/12 13:02:06 Extensions: [json yml yaml]
+2024/11/12 13:02:06 Found corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 13:02:06 Training on corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 13:02:11 Training completed successfully in 64.602129ms.
+2024/11/12 13:05:12 Config File: ../config_local.yaml
+2024/11/12 13:05:12 Directory: Corpus/en
+2024/11/12 13:05:12 Corpora: 
+2024/11/12 13:05:12 Store File: ../chat/PMFuncOverview.gob
+2024/11/12 13:05:12 Print Memory Stats: true
+2024/11/12 13:05:12 Log File: train.log
+2024/11/12 13:05:12 Extensions: [json yml yaml]
+2024/11/12 13:05:12 Found corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 13:05:12 Training on corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 13:05:18 Training completed successfully in 63.269906ms.
+2024/11/12 13:06:38 Config File: ../config_local.yaml
+2024/11/12 13:06:38 Directory: Corpus/en
+2024/11/12 13:06:38 Corpora: 
+2024/11/12 13:06:38 Store File: ../chat/PMFuncOverview.gob
+2024/11/12 13:06:38 Print Memory Stats: true
+2024/11/12 13:06:38 Log File: train.log
+2024/11/12 13:06:38 Extensions: [json yml yaml]
+2024/11/12 13:06:38 Found corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 13:06:38 Training on corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 13:06:43 Training completed successfully in 78.571014ms.
+2024/11/12 13:07:49 Config File: ../config_local.yaml
+2024/11/12 13:07:49 Directory: Corpus/en
+2024/11/12 13:07:49 Corpora: 
+2024/11/12 13:07:49 Store File: ../chat/PMFuncOverview.gob
+2024/11/12 13:07:49 Print Memory Stats: true
+2024/11/12 13:07:49 Log File: train.log
+2024/11/12 13:07:49 Extensions: [json yml yaml]
+2024/11/12 13:07:49 Found corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 13:07:49 Training on corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 13:07:54 Training completed successfully in 67.866233ms.
+2024/11/12 13:09:07 Config File: ../config_local.yaml
+2024/11/12 13:09:07 Directory: Corpus/en
+2024/11/12 13:09:07 Corpora: 
+2024/11/12 13:09:07 Store File: ../chat/PMFuncOverview.gob
+2024/11/12 13:09:07 Print Memory Stats: true
+2024/11/12 13:09:07 Log File: train.log
+2024/11/12 13:09:07 Extensions: [json yml yaml]
+2024/11/12 13:09:07 Found corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 13:09:07 Training on corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 13:09:12 Training completed successfully in 60.455011ms.
+2024/11/12 13:09:52 Config File: ../config_local.yaml
+2024/11/12 13:09:52 Directory: Corpus/en
+2024/11/12 13:09:52 Corpora: 
+2024/11/12 13:09:52 Store File: ../chat/PMFuncOverview.gob
+2024/11/12 13:09:52 Print Memory Stats: true
+2024/11/12 13:09:52 Log File: train.log
+2024/11/12 13:09:52 Extensions: [json yml yaml]
+2024/11/12 13:09:52 Found corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 13:09:52 Training on corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 13:09:57 Training completed successfully in 57.4455ms.
+2024/11/12 13:11:05 Config File: ../config_local.yaml
+2024/11/12 13:11:05 Directory: Corpus/en
+2024/11/12 13:11:05 Corpora: 
+2024/11/12 13:11:05 Store File: ../chat/PMFuncOverview.gob
+2024/11/12 13:11:05 Print Memory Stats: true
+2024/11/12 13:11:05 Log File: train.log
+2024/11/12 13:11:05 Extensions: [json yml yaml]
+2024/11/12 13:11:05 Found corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 13:11:05 Training on corpora files: [Corpus/en/PeriNODE_0-10V/periNODE_0-10V.yaml Corpus/en/Perimica/perimicaOverviewFunctions.yml Corpus/en/Perinet/perinet.yml Corpus/en/SmallTalk/greetings.yml]
+2024/11/12 13:11:10 Training completed successfully in 57.176998ms.
+2024/11/13 20:44:37 Config File: ../config_local.yaml
+2024/11/13 20:44:37 Directory: Corpus/en
+2024/11/13 20:44:37 Corpora: 
+2024/11/13 20:44:37 Store File: ../chat/PMFuncOverview.gob
+2024/11/13 20:44:37 Print Memory Stats: true
+2024/11/13 20:44:37 Log File: train.log
+2024/11/13 20:44:37 Extensions: [json yml yaml]
+2024/11/13 20:44:37 Found corpora files: [Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/13 20:44:37 Training on corpora files: [Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/13 20:44:41 Training completed successfully in 56.3397ms.
+2024/11/13 20:47:03 Config File: ../config_local.yaml
+2024/11/13 20:47:03 Directory: Corpus/en
+2024/11/13 20:47:03 Corpora: 
+2024/11/13 20:47:03 Store File: ../chat/PMFuncOverview.gob
+2024/11/13 20:47:03 Print Memory Stats: true
+2024/11/13 20:47:03 Log File: train.log
+2024/11/13 20:47:03 Extensions: [json yml yaml]
+2024/11/13 20:47:03 Found corpora files: [Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/13 20:47:03 Training on corpora files: [Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/13 20:47:07 Training completed successfully in 64.3024ms.
+2024/11/13 20:51:32 Config File: ../config_local.yaml
+2024/11/13 20:51:32 Directory: Corpus/en
+2024/11/13 20:51:32 Corpora: 
+2024/11/13 20:51:32 Store File: ../chat/PMFuncOverview.gob
+2024/11/13 20:51:32 Print Memory Stats: true
+2024/11/13 20:51:32 Log File: train.log
+2024/11/13 20:51:32 Extensions: [json yml yaml]
+2024/11/13 20:51:32 Found corpora files: [Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/13 20:51:32 Training on corpora files: [Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/13 20:51:36 Training completed successfully in 74.4563ms.
+2024/11/13 20:54:54 Config File: ../config_local.yaml
+2024/11/13 20:54:54 Directory: Corpus/en
+2024/11/13 20:54:54 Corpora: 
+2024/11/13 20:54:54 Store File: ../chat/PMFuncOverview.gob
+2024/11/13 20:54:54 Print Memory Stats: true
+2024/11/13 20:54:54 Log File: train.log
+2024/11/13 20:54:54 Extensions: [json yml yaml]
+2024/11/13 20:54:54 Found corpora files: [Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/13 20:54:54 Training on corpora files: [Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/13 20:54:58 Training completed successfully in 61.3885ms.

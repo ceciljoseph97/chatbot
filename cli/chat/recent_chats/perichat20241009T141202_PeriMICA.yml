@@ -1,0 +1,32 @@
+categories:
+- PeriMICA
+- GPIO
+conversations:
+- - HI
+  - No answer!
+- - hi
+  - No answer!
+- - Hi
+  - Hello
+- - How are You
+  - Good.
+- - What is PeriMICA
+  - The periMICA is the modular edge computer for your field‐level IoT application,
+    even in rough environments. It hosts virtualized applications and provides a runtime
+    for lightweight Linux‐containers.
+- - what is operating voltage of PeriMICA
+  - The periMICA Edge Computer is based on a secure Linux system.
+- - voltage of PeriMICA
+  - The periMICA is the modular edge computer for your field‐level IoT application,
+    even in rough environments. It hosts virtualized applications and provides a runtime
+    for lightweight Linux‐containers.
+- - vic PeriMICA
+  - The periMICA is the modular edge computer for your field‐level IoT application,
+    even in rough environments. It hosts virtualized applications and provides a runtime
+    for lightweight Linux‐containers.
+- - models with dual core processors
+  - Sure! Here they are => - perimic spec. 0004 => PRN.000.025-00004 - Dual Core,
+    100Base-TX (PoE), GPIOs, USB - perimic spec. 0005 => PRN.000.025-00005 - Dual
+    Core, 100Base-TX (PoE), GPIOs - perimic spec. 0008 => PRN.000.025-00008 - Dual
+    Core, 100Base-TX, 100BASE-T1 - perimic spec. 0009 => PRN.000.025-00009 - Dual
+    Core, 100Base-TX, 100BASE-T1, USB

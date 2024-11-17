@@ -1,0 +1,60 @@
+categories:
+  PeriMICA: 2
+  Storage: 2
+conversations:
+- - How are You
+  - Good.
+- - What is PeriMICA Temperature range
+  - The operating temperature range is from -25°C to +75°C.
+- - what is PeriMICA storage range
+  - The storage temperature range is from -25 to +85°C.
+- - how about the humidity range
+  - The storage temperature range is from -25 to +85°C.
+- - processors in PeriMICA
+  - It has a compact and robust IP67 aluminum housing, and will soon be available
+    as an IP20 version for use in control cabinets.
+- - processors in PeriMICA
+  - There are two mounting kits available => - Wall mounting Kit => PRN.000.036 -
+    Kit for mounting the periMICA on a wall - DIN-rail mounting Kit => PRN.000.037
+    - Kit for mounting the periMICA on a DIN rail
+- - processor options in PeriMICA
+  - It can be powered either by 24V or Power over Ethernet (PoE) for the S1 model,
+    in compliance with IEC and EN standards.
+- - processors in PeriMICA
+  - There are two mounting kits available => - Wall mounting Kit => PRN.000.036 -
+    Kit for mounting the periMICA on a wall - DIN-rail mounting Kit => PRN.000.037
+    - Kit for mounting the periMICA on a DIN rail
+- - processor parents in PeriMICA
+  - There are two mounting kits available => - Wall mounting Kit => PRN.000.036 -
+    Kit for mounting the periMICA on a wall - DIN-rail mounting Kit => PRN.000.037
+    - Kit for mounting the periMICA on a DIN rail
+- - how about the humidity range
+  - It can operate in humidity levels from 5% to 95% without condensation.
+- - what is PeriMICA storage range
+  - It can be stored in temperatures ranging from -25°C to +85°C.
+- - storage range
+  - The storage temperature range is from -25 to +85°C.
+- - memory and storage details of PeriMICA
+  - Sure! The wall mounting kit order number is PRN.000.036, and it is used for mounting
+    the periMICA on a wall.
+- - memory and storage details of PeriMICA
+  - Sure! The wall mounting kit order number is PRN.000.036, and it is used for mounting
+    the periMICA on a wall.
+- - memory options in PeriMICA
+  - The periMICA allows for brand labeling, so you can customize it with your logo
+    or identification.
+- - Which PeriMICA models have USB ports
+  - The models with USB ports are => - perimic spec. 0002 => PRN.000.025-00002 - Single
+    Core, 100Base-TX (PoE), GPIOs, USB - perimic spec. 0004 => PRN.000.025-00004 -
+    Dual Core, 100Base-TX (PoE), GPIOs, USB - perimic spec. 0007 => PRN.000.025-00007
+    - Single Core, 100Base-TX, 100BASE-T1, USB - perimic spec. 0009 => PRN.000.025-00009
+    - Dual Core, 100Base-TX, 100BASE-T1, USB
+- - Can you tell me the processor options
+  - Sure! You can choose between a TI AM3352 single core, Cortex A8, ARMv7, 1.00 GHz
+    or a Marvell Armada 385 dual core, Cortex A9, ARMv7, 1.33 GHz.
+- - Can you tell me the material properties
+  - Sure! The housing is made of aluminum and the dimensions are 132*86*35mm. It also
+    has LEDs for status indication.
+- - memory and storage details of PeriMICA
+  - Sure! The wall mounting kit order number is PRN.000.036, and it is used for mounting
+    the periMICA on a wall.

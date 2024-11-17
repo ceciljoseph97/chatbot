@@ -1,0 +1,21 @@
+categories:
+- perimica
+- temperature
+- storage
+conversations:
+- - Hi
+  - Hello
+- - How are you
+  - Very well, thanks.
+- - Tell me about perimica temperature range
+  - The operating temperature range is from -25 to +75°C.
+- - give me storage range of perimica
+  - It can be stored in temperatures ranging from -25°C to +85°C.
+- - humidity of perimica
+  - The periMICA is designed to operate in relative humidity levels from 5% to 95%
+    non-condensing.
+- - perimica processor options
+  - Sure! You can choose between a TI AM3352 single core, Cortex A8, ARMv7, 1.00 GHz
+    or a Marvell Armada 385 dual core, Cortex A9, ARMv7, 1.33 GHz.
+- - ram varients
+  - No answer!

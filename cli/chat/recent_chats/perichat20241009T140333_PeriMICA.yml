@@ -1,0 +1,11 @@
+categories:
+- PeriMICA
+- Temperature
+- Storage
+conversations:
+- - Hi
+  - Hello
+- - How are You
+  - Very well, thanks.
+- - PeriMICA Temperature range
+  - The storage temperature range is from -25 to +85°C.

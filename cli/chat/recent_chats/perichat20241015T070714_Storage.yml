@@ -1,0 +1,12 @@
+categories:
+- Temperature
+- Storage
+conversations:
+- - How are You
+  - Very well, thanks.
+- - what is PeriMICA
+  - The periMICA is the modular edge computer for your field‐level IoT application,
+    even in rough environments. It hosts virtualized applications and provides a runtime
+    for lightweight Linux‐containers.
+- - what is its storage temperature range
+  - It can be stored in temperatures ranging from -25°C to +85°C.

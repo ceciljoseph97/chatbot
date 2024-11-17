@@ -70,6 +70,7 @@ for training:
 
     go run train.go -d Corpus/en -m -o ../chat/perimicaCorpustrial.gob
 
+![Training script usage](media/trainUsage.png)
 
 
 ## Profiling and Performance Optimization
@@ -83,12 +84,17 @@ for Inference:
 
 Here's a demonstration of how the chatbot works:
 
+![Chat Script Usage](media/perichat.mp4)
+
 
 chatbot usage with MR working and confidence scoring
+
+![Chat With MR Functionality](media/perichatWMrVerb.png)
 
 The Recent Chat History feature is also implemented for enhanced interactive training, allowing the system to save conversations. If a question remains unanswered, the chat history can be stored and sent to developers for retraining purposes.
 
 Recent Chats with Automatic Category filtering.
+![Recent Chats](media/recentChat.png)
 
 ### Profiling Types:
 
@@ -117,9 +123,9 @@ The current challenge is the limited corpus data, which affects the chatbot's ab
 - **[Chatbot](https://github.com/kevwan/chatbot/)**  
   Chatbot - An Advancement Engine used in the project, any NLP and engine changes were implemented on top of this.
 
-Initial Fork from kevwan/chatbot - No active sync from Now on
-Main Version owned By Cecil Joseph - ceciljoseph97/chatbot - No active sync from Now on
-Current version Handled By Cecil Joseph  - Will be Migrating as a fork to Respective repo
+Initial Fork from kevwan/chatbot
+
+Main Version owned By Cecil Joseph - ceciljoseph97/chatbot
 
 
 

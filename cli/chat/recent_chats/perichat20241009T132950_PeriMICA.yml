@@ -1,0 +1,11 @@
+categories:
+- PeriMICA
+conversations:
+- - Hi
+  - Hello
+- - HI
+  - No answer!
+- - What is PeriMICA
+  - The periMICA is the modular edge computer for your field‐level IoT application,
+    even in rough environments. It hosts virtualized applications and provides a runtime
+    for lightweight Linux‐containers.

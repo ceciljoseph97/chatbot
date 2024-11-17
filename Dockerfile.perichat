@@ -1,0 +1,29 @@
+FROM golang:1.21-alpine AS builder
+
+ENV GOOS=linux
+ENV GOARCH=amd64
+
+WORKDIR /app
+
+COPY go.mod go.sum ./
+RUN go mod download
+
+COPY . .
+
+RUN go build -o perichat ./cli/chat
+
+FROM alpine:latest
+
+RUN apk update && apk add --no-cache ca-certificates
+
+WORKDIR /app
+
+COPY --from=builder /app/perichat .
+COPY --from=builder /app/cli /app/cli
+COPY --from=builder /app/cli/config.yaml /app/cli/config.yaml
+COPY --from=builder /app/cli/chat/*.gob /app/
+
+RUN chmod +x /app/perichat
+
+EXPOSE 8080
+CMD ["./perichat", "-config", "/app/cli/config.yaml", "-c", "/app/PMFuncOverView.gob"]

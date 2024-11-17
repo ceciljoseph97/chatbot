@@ -1,0 +1,18 @@
+categories:
+- perimica
+- temperature
+- storage
+conversations:
+- - Hi
+  - Hello
+- - How aree You
+  - Good.
+- - Tell me about Perimica Temperature Range
+  - The operating temperature range is from -25 to +75°C.
+- - How about the Storage temperage range
+  - The storage temperature range is from -25 to +85°C.
+- - How about the Humidity range
+  - You can mount it using a DIN rail mounting kit or a wall mounting kit.
+- - humidity of perimica
+  - The periMICA is designed to operate in relative humidity levels from 5% to 95%
+    non-condensing.

@@ -50,7 +50,7 @@ var (
 	httpPort   = flag.String("http", "", "start HTTP server on `port` for network profiling")
 	context    = flag.Bool("context", true, "enable or disable context handling")
 	cmem       = flag.Int("cmem", 2, "number of conversations the context remains active (2-4)")
-	anim       = flag.Bool("anim", true, "enable or disable animated letter-by-letter printing")
+	anim       = flag.Bool("anim", false, "enable or disable animated letter-by-letter printing")
 )
 
 type Conversation struct {

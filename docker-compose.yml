@@ -1,0 +1,26 @@
+services:
+  perichat:
+    build:
+      context: .
+      dockerfile: Dockerfile.perichat
+    image: perichat-image
+    container_name: perichat
+    networks:
+      - perichatnet
+    stdin_open: true
+    tty: true
+
+  perichatweb:
+    build:
+      context: .
+      dockerfile: Dockerfile.perichatweb
+    image: perichatweb-image
+    container_name: perichatweb
+    ports:
+      - "${HOST_PORT:-8080}:8080"
+    networks:
+      - perichatnet
+
+networks:
+  perichatnet:
+    driver: bridge

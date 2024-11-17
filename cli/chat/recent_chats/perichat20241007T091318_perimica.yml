@@ -1,0 +1,47 @@
+categories:
+- perimica
+- temperature
+- storage
+- perinet
+- perinode
+conversations:
+- - Hi
+  - Hello
+- - How are you
+  - Fine, and you?
+- - tell me about the temperature range in perimica
+  - The operating temperature range is from -25 to +75°C.
+- - what about the storage temperature range
+  - The storage temperature range is from -25 to +85°C.
+- - how about the humidity range in perimica
+  - It can handle relative humidity from 5% to 95% non-condensing.
+- - tell me about the housing details of perimica
+  - The operating temperature range is from -25 to +75°C.
+- - how strong is perimica
+  - Perinet Smart Components network sensors and actuators, enabling the periMICA
+    to collect and preprocess data from these field-level devices.
+- - perimica casing
+  - The casing is constructed from aluminum, providing durability and protection.
+- - what is perimica
+  - Perinet develop and produce new, innovative electronic and electromechanical components
+    based on state-of-the-art technologies and the software to enable them.
+- - '#what is PeriMICA'
+  - The periMICA is the modular edge computer for your field‐level IoT application,
+    even in rough environments. It hosts virtualized applications and provides a runtime
+    for lightweight Linux‐containers.
+- - what is perimica?
+  - Perinet focuses on the seamless connection of sensors and actuators to IT-systems
+    (e.g. ERP)
+- - perinode
+  - No answer!
+- - perimica
+  - No answer!
+- - PeriMICA
+  - The periMICA is the modular edge computer for your field‐level IoT application,
+    even in rough environments. It hosts virtualized applications and provides a runtime
+    for lightweight Linux‐containers.
+- - tell me a joke
+  - what do you get when you cross a port and frosted flakes?
+- - what
+  - Perinet develop and produce new, innovative electronic and electromechanical components
+    based on state-of-the-art technologies and the software to enable them.

@@ -4,6 +4,9 @@ go 1.21
 
 require (
 	github.com/agnivade/levenshtein v1.2.0
+	github.com/google/uuid v1.3.0
+	github.com/gorilla/websocket v1.5.3
+	github.com/natefinch/npipe v0.0.0-20160621034901-c1b8fa8bdcce
 	github.com/wangbin/jiebago v0.3.2
 	github.com/zeromicro/go-zero v1.5.4
 	gopkg.in/yaml.v2 v2.4.0
@@ -19,4 +22,5 @@ require (
 	go.opentelemetry.io/otel/trace v1.14.0 // indirect
 	go.uber.org/automaxprocs v1.5.2 // indirect
 	golang.org/x/sys v0.10.0 // indirect
+	gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce // indirect
 )

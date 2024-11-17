@@ -1,0 +1,16 @@
+categories:
+- PeriMICA
+- Temperature
+- Storage
+conversations:
+- - How are You
+  - Very well, thanks.
+- - What is PeriMICA Temperature range
+  - The operating temperature range is from -25°C to +75°C.
+- - what is PeriMICA storage range
+  - The storage temperature range is from -25 to +85°C.
+- - how about the humidity range
+  - It can operate in humidity levels from 5% to 95% without condensation.
+- - memory and storage details of PeriMICA
+  - Sure! The wall mounting kit order number is PRN.000.036, and it is used for mounting
+    the periMICA on a wall.

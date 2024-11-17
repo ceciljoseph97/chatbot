@@ -1,0 +1,43 @@
+categories:
+- perimica
+- temperature
+- storage
+- gpio
+conversations:
+- - HI
+  - No answer!
+- - Hi
+  - Hello
+- - How aree You
+  - Very well, thanks.
+- - Tell me about periMICA
+  - Two eskimos in a kayak were chilly, so they started a fire, which sank the craft,
+    proving the old adage you can't have your kayak and heat it too.
+- - What is PeriMICA
+  - The periMICA is the modular edge computer for your field‐level IoT application,
+    even in rough environments. It hosts virtualized applications and provides a runtime
+    for lightweight Linux‐containers.
+- - What is the temperature range in Perimica
+  - It can be stored in temperatures ranging from -25°C to +85°C.
+- - What is its operating temperature range
+  - The storage temperature range is from -25 to +85°C.
+- - operational temperature ofg perimica
+  - The operating temperature range is from -25°C to +75°C.
+- - humidity of perimica
+  - The periMICA is designed to operate in relative humidity levels from 5% to 95%
+    non-condensing.
+- - casing details of perimica
+  - The casing is constructed from aluminum, providing durability and protection.
+- - perimica order details
+  - Of course! Here they are => - perimic spec. 0001 => PRN.000.025-00001 - Single
+    Core, 100Base-TX (PoE), GPIOs - perimic spec. 0002 => PRN.000.025-00002 - Single
+    Core, 100Base-TX (PoE), GPIOs, USB - perimic spec. 0004 => PRN.000.025-00004 -
+    Dual Core, 100Base-TX (PoE), GPIOs, USB - perimic spec. 0005 => PRN.000.025-00005
+    - Dual Core, 100Base-TX (PoE), GPIOs - perimic spec. 0006 => PRN.000.025-00006
+    - Single Core, 100Base-TX, 100BASE-T1 - perimic spec. 0007 => PRN.000.025-00007
+    - Single Core, 100Base-TX, 100BASE-T1, USB - perimic spec. 0008 => PRN.000.025-00008
+    - Dual Core, 100Base-TX, 100BASE-T1 - perimic spec. 0009 => PRN.000.025-00009
+    - Dual Core, 100Base-TX, 100BASE-T1, USB
+- - perimica processor variants
+  - Sure! You can choose between a TI AM3352 single core, Cortex A8, ARMv7, 1.00 GHz
+    or a Marvell Armada 385 dual core, Cortex A9, ARMv7, 1.33 GHz.

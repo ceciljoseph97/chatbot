@@ -1,0 +1,5 @@
+[Unreleased]
+[1.0.1] - 2024-11-12
+PDCTRES-35 - Updated CI/CD to include automated chat testing for PeriChat engine.
+[1.0.0] - 2024-11-12
+PDCTRES-35 - Initial implementation of PeriChat engine and migration from PeriAI

@@ -1,0 +1,24 @@
+categories:
+  PerinetGenericConversation: 2
+conversations:
+- - How are you
+  - Good.
+- - talk to me about PeriMICA
+  - The available cables are => - HARTING ix Industrial® Type A to RJ45 => Order number
+    33480147826010 - HARTING Pre-assembled ix Industrial® type A to RJ45 cable (S3
+    only) - HARTING M12 Cable Assembly A-coded 12 pol st/- m/- 1,0m => Order number
+    21348400C79010 - Power cable, M12 A-coded round plug connector, pre-assembled
+    on one side, 12 cores (S1 only)
+- - PeriMICA temperature
+  - The operating temperature range is from -25 to +75°C.
+- - PeriMICA Temperature
+  - Yes, the TP-LINK TL-PoE150S PoE Injector is available with the order number TL-PoE150S.
+- - PeriMICA temperature
+  - The operating temperature range is from -25 to +75°C.
+- - storage temperature
+  - It can be stored in temperatures ranging from -25°C to +85°C.
+- - humidity values
+  - The periMICA is designed to operate in relative humidity levels from 5% to 95%
+    non-condensing.
+- - PeriMICA storage Temperature
+  - It can be stored in temperatures ranging from -25°C to +85°C.
