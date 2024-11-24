@@ -1,0 +1,157 @@
+2024/11/20 15:17:04 Config File: C:/Workspace/PeriChatEngine/CorpusTrainer/config_local.yaml
+2024/11/20 15:17:04 Directory: C:/Workspace/PeriChatEngine/CorpusTrainer/Corpus
+2024/11/20 15:17:04 Corpora: 
+2024/11/20 15:17:04 Store File: C:/Workspace/PeriChatEngine/CorpusTrainer/abc.gob
+2024/11/20 15:17:04 Print Memory Stats: false
+2024/11/20 15:17:04 Log File: train.log
+2024/11/20 15:17:04 Extensions: [json yml yaml]
+2024/11/20 15:17:04 Found corpora files: [C:\Workspace\PeriChatEngine\CorpusTrainer\Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml C:\Workspace\PeriChatEngine\CorpusTrainer\Corpus\en\Perimica\perimicaOverviewFunctions.yml C:\Workspace\PeriChatEngine\CorpusTrainer\Corpus\en\Perinet\perinet.yml C:\Workspace\PeriChatEngine\CorpusTrainer\Corpus\en\SmallTalk\greetings.yml C:\Workspace\PeriChatEngine\CorpusTrainer\Corpus\hellow.yml]
+2024/11/20 15:17:04 Training on corpora files: [C:\Workspace\PeriChatEngine\CorpusTrainer\Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml C:\Workspace\PeriChatEngine\CorpusTrainer\Corpus\en\Perimica\perimicaOverviewFunctions.yml C:\Workspace\PeriChatEngine\CorpusTrainer\Corpus\en\Perinet\perinet.yml C:\Workspace\PeriChatEngine\CorpusTrainer\Corpus\en\SmallTalk\greetings.yml C:\Workspace\PeriChatEngine\CorpusTrainer\Corpus\hellow.yml]
+2024/11/20 15:17:10 Training completed successfully in 57.9987ms.
+2024/11/21 12:27:31 Config File: C:/Workspace/ChatCorpusManager/CorpusTrainer/config_local.yaml
+2024/11/21 12:27:31 Directory: C:/Workspace/ChatCorpusManager/CorpusTrainer/Corpus
+2024/11/21 12:27:31 Corpora: 
+2024/11/21 12:27:31 Store File: C:/Workspace/ChatCorpusManager/CorpusTrainer/gob/CorpuNew21.11.2024.gob
+2024/11/21 12:27:31 Print Memory Stats: false
+2024/11/21 12:27:31 Log File: train.log
+2024/11/21 12:27:31 Extensions: [json yml yaml]
+2024/11/21 12:27:31 Found corpora files: [C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\FAQ\faq.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perimica\perimicaOverviewFunctions.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perinet\perinet.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings.yml]
+2024/11/21 12:27:31 Training on corpora files: [C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\FAQ\faq.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perimica\perimicaOverviewFunctions.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perinet\perinet.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings.yml]
+2024/11/21 12:27:37 Training completed successfully in 46.781ms.
+2024/11/21 12:37:18 Config File: C:/Workspace/ChatCorpusManager/CorpusTrainer/config_local.yaml
+2024/11/21 12:37:18 Directory: C:/Workspace/ChatCorpusManager/CorpusTrainer/Corpus
+2024/11/21 12:37:18 Corpora: 
+2024/11/21 12:37:18 Store File: C:/Workspace/ChatCorpusManager/CorpusTrainer/gob/check.gob
+2024/11/21 12:37:18 Print Memory Stats: true
+2024/11/21 12:37:18 Log File: train.log
+2024/11/21 12:37:18 Extensions: [json yml yaml]
+2024/11/21 12:37:18 Found corpora files: [C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\FAQ\faq.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perimica\perimicaOverviewFunctions.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perinet\perinet.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings.yml]
+2024/11/21 12:37:18 Training on corpora files: [C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\FAQ\faq.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perimica\perimicaOverviewFunctions.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perinet\perinet.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings.yml]
+2024/11/21 12:37:27 Training completed successfully in 78.788ms.
+2024/11/21 12:39:06 Config File: C:/Workspace/ChatCorpusManager/CorpusTrainer/config_local.yaml
+2024/11/21 12:39:06 Directory: C:/Workspace/ChatCorpusManager/CorpusTrainer/Corpus
+2024/11/21 12:39:06 Corpora: 
+2024/11/21 12:39:06 Store File: C:/Workspace/ChatCorpusManager/CorpusTrainer/gob/check.gob
+2024/11/21 12:39:06 Print Memory Stats: true
+2024/11/21 12:39:06 Log File: train.log
+2024/11/21 12:39:06 Extensions: [json yml yaml]
+2024/11/21 12:39:06 Found corpora files: [C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\FAQ\faq.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perimica\perimicaOverviewFunctions.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perinet\perinet.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings.yml]
+2024/11/21 12:39:06 Training on corpora files: [C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\FAQ\faq.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perimica\perimicaOverviewFunctions.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perinet\perinet.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings.yml]
+2024/11/21 12:39:06 open C:\Workspace\ChatCorpusManager\CorpusTrainer\etc\dict.txt: The system cannot find the file specified.
+
+goroutine 1 [running]:
+runtime/debug.Stack()
+	C:/Program Files/Go/src/runtime/debug/stack.go:24 +0x5e
+github.com/zeromicro/go-zero/core/logx.Must({0xbc7ba8?, 0xc000288ed0?})
+	C:/Users/CecilJoseph/go/pkg/mod/github.com/zeromicro/go-zero@v1.5.4/core/logx/logs.go:225 +0x4e
+golangChatBot/bot/adapters/storage.RestoreMemoryStorage(0xc00007cf00, {{0xc00000ab70, 0xe}, {0xc00000ab80, 0xd}, {0xc0000163d8, 0x14}, {0xc0000163f0, 0x13}})
+	C:/Workspace/PeriChatEngine/bot/adapters/storage/memorystorage.go:51 +0xf3
+golangChatBot/bot/adapters/storage.NewSeparatedMemoryStorage({0xc0000123c0, 0x3a}, {{0xc00000ab70, 0xe}, {0xc00000ab80, 0xd}, {0xc0000163d8, 0x14}, {0xc0000163f0, 0x13}})
+	C:/Workspace/PeriChatEngine/bot/adapters/storage/separatedmemorystorage.go:27 +0x1af
+main.main()
+	C:/Workspace/PeriChatEngine/train/train.go:127 +0xf85
+2024/11/21 12:39:28 Config File: C:/Workspace/ChatCorpusManager/CorpusTrainer/config_local.yaml
+2024/11/21 12:39:28 Directory: C:/Workspace/ChatCorpusManager/CorpusTrainer/Corpus
+2024/11/21 12:39:28 Corpora: 
+2024/11/21 12:39:28 Store File: C:/Workspace/ChatCorpusManager/CorpusTrainer/gob/check.gob
+2024/11/21 12:39:28 Print Memory Stats: true
+2024/11/21 12:39:28 Log File: train.log
+2024/11/21 12:39:28 Extensions: [json yml yaml]
+2024/11/21 12:39:28 Found corpora files: [C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\FAQ\faq.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perimica\perimicaOverviewFunctions.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perinet\perinet.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings.yml]
+2024/11/21 12:39:28 Training on corpora files: [C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\FAQ\faq.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perimica\perimicaOverviewFunctions.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perinet\perinet.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings.yml]
+2024/11/21 12:39:36 Training completed successfully in 84.6848ms.
+2024/11/21 12:40:10 Config File: C:/Workspace/ChatCorpusManager/CorpusTrainer/config_local.yaml
+2024/11/21 12:40:10 Directory: C:/Workspace/ChatCorpusManager/CorpusTrainer/Corpus
+2024/11/21 12:40:10 Corpora: 
+2024/11/21 12:40:10 Store File: C:/Workspace/ChatCorpusManager/CorpusTrainer/gob/check.gob
+2024/11/21 12:40:10 Print Memory Stats: true
+2024/11/21 12:40:10 Log File: train.log
+2024/11/21 12:40:10 Extensions: [json yml yaml]
+2024/11/21 12:40:10 Found corpora files: [C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\FAQ\faq.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perimica\perimicaOverviewFunctions.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perinet\perinet.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings.yml]
+2024/11/21 12:40:10 Training on corpora files: [C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\FAQ\faq.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perimica\perimicaOverviewFunctions.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perinet\perinet.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings.yml]
+2024/11/21 12:41:36 Config File: C:/Workspace/ChatCorpusManager/CorpusTrainer/config_local.yaml
+2024/11/21 12:41:36 Directory: C:/Workspace/ChatCorpusManager/CorpusTrainer/Corpus
+2024/11/21 12:41:36 Corpora: 
+2024/11/21 12:41:36 Store File: C:/Workspace/ChatCorpusManager/CorpusTrainer/gob/check.gob
+2024/11/21 12:41:36 Print Memory Stats: true
+2024/11/21 12:41:36 Log File: train.log
+2024/11/21 12:41:36 Extensions: [json yml yaml]
+2024/11/21 12:41:36 Found corpora files: [C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\FAQ\faq.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perimica\perimicaOverviewFunctions.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perinet\perinet.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings.yml]
+2024/11/21 12:41:36 Training on corpora files: [C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\FAQ\faq.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perimica\perimicaOverviewFunctions.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perinet\perinet.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings.yml]
+2024/11/21 12:43:26 Config File: C:\Workspace\ChatCorpusManager\CorpusTrainer\config_local.yaml
+2024/11/21 12:43:26 Directory: C:/Workspace/ChatCorpusManager/CorpusTrainer/Corpus
+2024/11/21 12:43:26 Corpora: 
+2024/11/21 12:43:26 Store File: C:/Workspace/ChatCorpusManager/CorpusTrainer/gob/check.gob
+2024/11/21 12:43:26 Print Memory Stats: true
+2024/11/21 12:43:26 Log File: train.log
+2024/11/21 12:43:26 Extensions: [json yml yaml]
+2024/11/21 12:43:26 Found corpora files: [C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\FAQ\faq.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perimica\perimicaOverviewFunctions.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perinet\perinet.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings.yml]
+2024/11/21 12:43:26 Training on corpora files: [C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\FAQ\faq.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perimica\perimicaOverviewFunctions.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perinet\perinet.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings.yml]
+2024/11/21 12:46:37 Config File: C:\Workspace\ChatCorpusManager\CorpusTrainer\config_local.yaml
+2024/11/21 12:46:37 Directory: C:/Workspace/ChatCorpusManager/CorpusTrainer/Corpus
+2024/11/21 12:46:37 Corpora: 
+2024/11/21 12:46:37 Store File: C:/Workspace/ChatCorpusManager/CorpusTrainer/gob/check.gob
+2024/11/21 12:46:37 Print Memory Stats: true
+2024/11/21 12:46:37 Log File: train.log
+2024/11/21 12:46:37 Extensions: [json yml yaml]
+2024/11/21 12:46:37 Found corpora files: [C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\FAQ\faq.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perimica\perimicaOverviewFunctions.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perinet\perinet.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings.yml]
+2024/11/21 12:46:37 Training on corpora files: [C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\FAQ\faq.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perimica\perimicaOverviewFunctions.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\Perinet\perinet.yml C:\Workspace\ChatCorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings.yml]
+2024/11/21 12:48:12 Config File: ./config_local.yaml
+2024/11/21 12:48:12 Directory: ./corpus
+2024/11/21 12:48:12 Corpora: 
+2024/11/21 12:48:12 Store File: abc.gob
+2024/11/21 12:48:12 Print Memory Stats: false
+2024/11/21 12:48:12 Log File: train.log
+2024/11/21 12:48:12 Extensions: [json yml yaml]
+2024/11/21 12:48:12 Found corpora files: [corpus\en\FAQ\faq.yaml corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml corpus\en\Perimica\perimicaOverviewFunctions.yml corpus\en\Perinet\perinet.yml corpus\en\SmallTalk\greetings.yml]
+2024/11/21 12:48:12 Training on corpora files: [corpus\en\FAQ\faq.yaml corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml corpus\en\Perimica\perimicaOverviewFunctions.yml corpus\en\Perinet\perinet.yml corpus\en\SmallTalk\greetings.yml]
+2024/11/21 12:48:38 Config File: ./config_local.yaml
+2024/11/21 12:48:38 Directory: ./corpus
+2024/11/21 12:48:38 Corpora: 
+2024/11/21 12:48:38 Store File: abc.gob
+2024/11/21 12:48:38 Print Memory Stats: false
+2024/11/21 12:48:38 Log File: train.log
+2024/11/21 12:48:38 Extensions: [json yml yaml]
+2024/11/21 12:48:38 Found corpora files: [corpus\en\FAQ\faq.yaml corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml corpus\en\Perimica\perimicaOverviewFunctions.yml corpus\en\Perinet\perinet.yml corpus\en\SmallTalk\greetings.yml]
+2024/11/21 12:48:38 Training on corpora files: [corpus\en\FAQ\faq.yaml corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml corpus\en\Perimica\perimicaOverviewFunctions.yml corpus\en\Perinet\perinet.yml corpus\en\SmallTalk\greetings.yml]
+2024/11/21 12:48:48 Training completed successfully in 126.5709ms.
+2024/11/21 12:49:08 Config File: ./config_local.yaml
+2024/11/21 12:49:08 Directory: ./corpus
+2024/11/21 12:49:08 Corpora: 
+2024/11/21 12:49:08 Store File: abc.gob
+2024/11/21 12:49:08 Print Memory Stats: false
+2024/11/21 12:49:08 Log File: train.log
+2024/11/21 12:49:08 Extensions: [json yml yaml]
+2024/11/21 12:49:08 Found corpora files: [corpus\en\FAQ\faq.yaml corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml corpus\en\Perimica\perimicaOverviewFunctions.yml corpus\en\Perinet\perinet.yml corpus\en\SmallTalk\greetings.yml]
+2024/11/21 12:49:08 Training on corpora files: [corpus\en\FAQ\faq.yaml corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml corpus\en\Perimica\perimicaOverviewFunctions.yml corpus\en\Perinet\perinet.yml corpus\en\SmallTalk\greetings.yml]
+2024/11/21 12:49:19 Training completed successfully in 131.3022ms.
+2024/11/21 13:12:40 Config File: .\config_local.yaml
+2024/11/21 13:12:40 Directory: .\Corpus\
+2024/11/21 13:12:40 Corpora: 
+2024/11/21 13:12:40 Store File: corpus.gob
+2024/11/21 13:12:40 Print Memory Stats: false
+2024/11/21 13:12:40 Log File: train.log
+2024/11/21 13:12:40 Extensions: [json yml yaml]
+2024/11/21 13:12:40 Found corpora files: [Corpus\en\FAQ\faq.yaml Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet copy.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings copy.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/21 13:12:40 Training on corpora files: [Corpus\en\FAQ\faq.yaml Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml Corpus\en\Perimica\perimicaOverviewFunctions.yml Corpus\en\Perinet\perinet copy.yml Corpus\en\Perinet\perinet.yml Corpus\en\SmallTalk\greetings copy.yml Corpus\en\SmallTalk\greetings.yml]
+2024/11/21 13:12:49 Training completed successfully in 138.3048ms.
+2024/11/24 18:30:30 Config File: D:/Work/CorpusManager/CorpusTrainer/config_local.yaml
+2024/11/24 18:30:30 Directory: D:/Work/CorpusManager/CorpusTrainer/Corpus
+2024/11/24 18:30:30 Corpora: 
+2024/11/24 18:30:30 Store File: D:/Work/CorpusManager/CorpusTrainer/gob/testing.gob
+2024/11/24 18:30:30 Print Memory Stats: true
+2024/11/24 18:30:30 Log File: train.log
+2024/11/24 18:30:30 Extensions: [json yml yaml]
+2024/11/24 18:30:30 Found corpora files: [D:\Work\CorpusManager\CorpusTrainer\Corpus\en\FAQ\faq.yaml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\Perimica\perimicaOverviewFunctions.yml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\Perinet\perinet copy.yml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\Perinet\perinet.yml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings copy.yml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings copy_de.yml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings.yml]
+2024/11/24 18:30:30 Training on corpora files: [D:\Work\CorpusManager\CorpusTrainer\Corpus\en\FAQ\faq.yaml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\Perimica\perimicaOverviewFunctions.yml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\Perinet\perinet copy.yml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\Perinet\perinet.yml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings copy.yml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings copy_de.yml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings.yml]
+2024/11/24 18:30:34 Training completed successfully in 45.6019ms.
+2024/11/24 19:42:02 Config File: d:\Work\CorpusManager\CorpusTrainer\config_local.yaml
+2024/11/24 19:42:02 Directory: D:/Work/CorpusManager/CorpusTrainer/Corpus
+2024/11/24 19:42:02 Corpora: 
+2024/11/24 19:42:02 Store File: D:/Work/CorpusManager/CorpusTrainer/gob/Hello.gob
+2024/11/24 19:42:02 Print Memory Stats: true
+2024/11/24 19:42:02 Log File: train.log
+2024/11/24 19:42:02 Extensions: [json yml yaml]
+2024/11/24 19:42:02 Found corpora files: [D:\Work\CorpusManager\CorpusTrainer\Corpus\en\FAQ\faq.yaml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\Perimica\perimicaOverviewFunctions.yml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\Perinet\perinet copy.yml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\Perinet\perinet.yml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings copy.yml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings.yml]
+2024/11/24 19:42:02 Training on corpora files: [D:\Work\CorpusManager\CorpusTrainer\Corpus\en\FAQ\faq.yaml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\PeriNODE_0-10V\periNODE_0-10V.yaml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\Perimica\perimicaOverviewFunctions.yml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\Perinet\perinet copy.yml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\Perinet\perinet.yml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings copy.yml D:\Work\CorpusManager\CorpusTrainer\Corpus\en\SmallTalk\greetings.yml]
+2024/11/24 19:42:06 Training completed successfully in 45.2794ms.

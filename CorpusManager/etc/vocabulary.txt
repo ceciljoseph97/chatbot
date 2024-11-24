@@ -1,0 +1,12 @@
+PeriMICA
+periNODE
+perinode
+GPIO
+Storage
+PeriStart
+PeriSwitch
+PeriLine
+PeriSnoop
+Temperature
+Perinet
+voltage 

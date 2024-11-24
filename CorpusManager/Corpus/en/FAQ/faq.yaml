@@ -1,0 +1,50 @@
+categories:
+  - Perinet
+  - perinet
+  - PERINET
+  - perinetGMBH
+conversations:
+  - - "I cannot access periNodes and periMICA containers in the Chrome browser under Linux. Is there a solution for this?"
+    - |
+      Unfortunately, Chrome does not support IPv6 link-local addresses under Linux. Please use Firefox. Also, make sure that the module mdns6 or mdns6_minimal has been entered in your /etc/nsswitch.conf.
+  - - "Do you also have Tenant access to view the devices in the application in the cloud? (Starter Kit Plus)"
+    - |
+      We do not yet have online access for presentation purposes. The development effort is not small, but it is feasible. A "Starter Kit Plus video" is planned to show the functionality online.
+  - - "How can I ping IPv4 servers in the periMICA container?"
+    - |
+      You can use NAT64 addresses by adding the prefix 64:ff9b:: to the IPv4 address.
+      Example: ping 64:ff9b::192.0.2.1
+  - - "I have an IPv4-only network and can connect to the periMICA, but not the periMICA containers."
+    - |
+      Please enable the domain forwarding feature in the network settings of periMICA.
+  - - "How do I connect the wires of the M12 Cable Assembly A-cod 4 pole straight female 1.0m (MICA) to 24V DC or GROUND? Where can I find this information?"
+    - |
+      Red/blue = GND, yellow/pink = 24V DC. The information is in the periMICA User Guide on page 13.
+      Addition: It should be included in the periMICA Quick Start Guide.
+  - - "Which communication medium should I use for Perinet products, HTTP or MQTT? Why is that important?"
+    - |
+      We recommend MQTT for data transfer and HTTP for configuration purposes. HTTP is synchronous communication, while MQTT is asynchronous communication.
+      - HTTP (synchronous): Like a phone call, it requires both sides to communicate at the same time, ideal for configuration and settings that require immediate response or confirmation.
+      - MQTT (asynchronous): Like email, a message is sent and the recipient can retrieve it later, making it useful for transmitting data from sensors without requiring constant connectivity.
+      By combining both methods, you utilize the strengths of each technology.
+  - - "How can I change a public network to private if I can't do this via the Windows interface?"
+    - |
+      Use the command line tool: set-netconnectionprofile -name "network name" -network category private.
+  - - "I accidentally selected the wrong certificate when accessing the website of a secure periMICA Container / Smart Component. Now I get an error and cannot decide again. What should I do?"
+    - |
+      Depending on your browser, there are different ways to solve this problem:
+      - In Chrome: Right click, choose "Inspect". In the Dev Tools menu, find the "Application" tab, make sure "Storage" is selected, and click "Clear site data".
+      - In Safari: Go to Safari > Preferences > Privacy. Search for your website, click it, and click "Remove".
+      - In Firefox: Click the lock icon next to the URL bar. Choose "Clear Cookies and Site Data" and make sure to select your site only, then click "Remove".
+  - - "My periMICA password cannot be saved in the Chrome browser."
+    - |
+      Saving passwords is disabled by default for self-signed certificates. It can be enabled with the option chrome://flags/#allow-insecure-localhost. Caution: this option applies to all websites.
+  - - "I am in a new network and periNODEs cannot be called up via Edge or Chrome browser, but they communicate with each other and I can reach my periMICA."
+    - |
+      Try Firefox. Chrome-based browsers require a global IPv6 address to resolve link-local names to IPv6 link-local addresses. Firefox does not have this issue.
+  - - "When trying to add any Perinet device to the periMICA home site (via Settings/Remote Devices), an error occurs: 'NoneType' object has no attribute 'split.'"
+    - |
+      If periMICA is set to DHCP, you cannot add a remote device. First, set periMICA to a static IPv4 address and give it an address (e.g., 192.168.0.1). Afterward, you can set it back to DHCP and add remote devices.
+  - - "With curl version > 8.7.x, libperiCORE based firmware cannot be updated anymore. The PUT request fails. What should I do?"
+    - |
+      Use an older version of curl to resolve this issue.
