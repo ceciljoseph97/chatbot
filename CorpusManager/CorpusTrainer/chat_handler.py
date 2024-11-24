@@ -98,10 +98,7 @@ class ChatHandler:
 
     def parse_response(self, response):
         self.update_status("PeriChat Processed and Responded")
-        if response.startswith("User: PeriChat: "):
-            message = response.replace("User: PeriChat: ", "").strip()
-        else:
-            message = response.strip()
+        message = response.replace("User: PeriChat: ", "").strip()
         return ("ChatBot", message)
 
     def send_message(self, message):

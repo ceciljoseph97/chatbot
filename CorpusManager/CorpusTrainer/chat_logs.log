@@ -894,3 +894,108 @@
 2024-11-24 19:47:46,260 - INFO - Received from chat.exe: ***************************************
 2024-11-24 19:47:46,277 - INFO - Received from chat.exe: Our purpose is to provide easy answers to your questions about Perinet products, APIs, and any general Perinet-related queries.
 2024-11-24 19:47:46,293 - INFO - Received from chat.exe: Type '/geronimo' for special exit.
+2024-11-24 20:34:26,496 - INFO - Starting chat.exe with command: d:\Work\CorpusManager\CorpusTrainer\chat.exe -config d:\Work\CorpusManager\CorpusTrainer\config_local.yaml -c d:\Work\CorpusManager\CorpusTrainer\gob/PMFuncOverView.gob -cmem 2 -intro -t 1
+2024-11-24 20:34:30,514 - INFO - Received from chat.exe: ***************************************
+2024-11-24 20:34:30,527 - INFO - Received from chat.exe: *                                     *
+2024-11-24 20:34:30,590 - INFO - Received from chat.exe: *        Welcome to PeriChat!         *
+2024-11-24 20:34:30,592 - INFO - Received from chat.exe: *                                     *
+2024-11-24 20:34:30,599 - INFO - Received from chat.exe: ***************************************
+2024-11-24 20:34:30,605 - INFO - Received from chat.exe: Our purpose is to provide easy answers to your questions about Perinet products, APIs, and any general Perinet-related queries.
+2024-11-24 20:34:30,610 - INFO - Received from chat.exe: Type '/geronimo' for special exit.
+2024-11-24 20:34:30,614 - INFO - Received from chat.exe: User:
+2024-11-24 20:34:30,615 - INFO - ChatBot is ready.
+2024-11-24 20:34:36,072 - INFO - Sent to chat.exe: PeriChat: Hi
+2024-11-24 20:34:36,098 - INFO - Received from chat.exe: PeriChat: Hello
+2024-11-24 20:34:41,488 - INFO - Sent to chat.exe: PeriChat: How are Zou
+2024-11-24 20:34:41,508 - INFO - Received from chat.exe: User: PeriChat: Fine, and you?
+2024-11-24 20:34:56,740 - INFO - Sent to chat.exe: PeriChat: fine
+2024-11-24 20:34:56,762 - INFO - Received from chat.exe: User: PeriChat: Hi There, No answer found at the moment... We will update the developers regarding the question asked...
+2024-11-24 20:35:02,405 - INFO - Sent to chat.exe: PeriChat: what is mica
+2024-11-24 20:35:02,425 - INFO - Received from chat.exe: User: PeriChat: It seamlessly integrates with existing IT systems and cloud platforms, making it easy to incorporate into your current infrastructure.
+2024-11-24 20:35:10,910 - INFO - Starting chatClosest.exe with command: d:\Work\CorpusManager\CorpusTrainer\chatClosest.exe -config d:\Work\CorpusManager\CorpusTrainer\config_local.yaml -c d:\Work\CorpusManager\CorpusTrainer\gob/PMFuncOverView.gob -cmem 2 -intro -t 1
+2024-11-24 20:35:10,945 - INFO - Received from chatClosest.exe: User:
+2024-11-24 20:35:10,985 - INFO - Received from chatClosest.exe: Exiting chat.
+2024-11-24 20:35:15,137 - INFO - ChatBot is ready.
+2024-11-24 20:35:15,142 - INFO - Received from chatClosest.exe: ***************************************
+2024-11-24 20:35:15,157 - INFO - Received from chatClosest.exe: *                                     *
+2024-11-24 20:35:15,161 - INFO - Received from chatClosest.exe: *        Welcome to PeriChat!         *
+2024-11-24 20:35:15,171 - INFO - Received from chatClosest.exe: *                                     *
+2024-11-24 20:35:15,180 - INFO - Received from chatClosest.exe: ***************************************
+2024-11-24 20:35:15,189 - INFO - Received from chatClosest.exe: Our purpose is to provide easy answers to your questions about Perinet products, APIs, and any general Perinet-related queries.
+2024-11-24 20:35:15,200 - INFO - Received from chatClosest.exe: Type '/geronimo' for special exit.
+2024-11-24 20:35:15,416 - INFO - Sent to chatClosest.exe: PeriChat: What is mica
+2024-11-24 20:35:15,434 - INFO - Received from chatClosest.exe: User: PeriChat: The periMICA is designed as an edge computing device for IIoT/IoT applications, handling functions such as data preprocessing, local function control, dashboard display, and data forwarding to higher-level IT systems.
+2024-11-24 20:35:26,419 - INFO - Sent to chatClosest.exe: PeriChat: working voltage of mica
+2024-11-24 20:35:26,442 - INFO - Received from chatClosest.exe: User: PeriChat: It seamlessly integrates with existing IT systems and cloud platforms, making it easy to incorporate into your current infrastructure.
+2024-11-24 20:35:37,885 - INFO - Sent to chatClosest.exe: PeriChat: working voltage of perinode
+2024-11-24 20:35:37,913 - INFO - Received from chatClosest.exe: User: PeriChat: The **periNODE** is designed to operate within an **-40°C to +70°C** temperature range, making it suitable for use in extreme industrial environments that require devices to withstand harsh conditions.
+2024-11-24 20:35:48,965 - INFO - Sent to chatClosest.exe: PeriChat: operating temperature of perimica
+2024-11-24 20:35:48,991 - INFO - Received from chatClosest.exe: User: PeriChat: The **periNODE** is designed to operate within an **-40°C to +70°C** temperature range, making it suitable for use in extreme industrial environments that require devices to withstand harsh conditions.
+2024-11-24 20:38:38,306 - INFO - Starting chat.exe with command: d:\Work\CorpusManager\CorpusTrainer\chat.exe -config d:\Work\CorpusManager\CorpusTrainer\config_local.yaml -c d:\Work\CorpusManager\CorpusTrainer\gob/PMFuncOverView.gob -cmem 2 -intro -t 1
+2024-11-24 20:38:42,213 - INFO - ChatBot is ready.
+2024-11-24 20:38:42,219 - INFO - Received from chat.exe: ***************************************
+2024-11-24 20:38:42,235 - INFO - Received from chat.exe: *                                     *
+2024-11-24 20:38:42,236 - INFO - Received from chat.exe: *        Welcome to PeriChat!         *
+2024-11-24 20:38:42,237 - INFO - Received from chat.exe: *                                     *
+2024-11-24 20:38:42,237 - INFO - Received from chat.exe: ***************************************
+2024-11-24 20:38:42,238 - INFO - Received from chat.exe: Our purpose is to provide easy answers to your questions about Perinet products, APIs, and any general Perinet-related queries.
+2024-11-24 20:38:42,292 - INFO - Received from chat.exe: Type '/geronimo' for special exit.
+2024-11-24 20:38:47,103 - INFO - Sent to chat.exe: PeriChat: hi
+2024-11-24 20:38:47,124 - INFO - Received from chat.exe: User: PeriChat: Hi There, No answer found at the moment... We will update the developers regarding the question asked...
+2024-11-24 20:38:50,563 - INFO - Sent to chat.exe: PeriChat: How are Zou
+2024-11-24 20:38:50,579 - INFO - Received from chat.exe: User: PeriChat: Good.
+2024-11-24 20:38:56,120 - INFO - Sent to chat.exe: PeriChat: What is mica
+2024-11-24 20:38:56,140 - INFO - Received from chat.exe: User: PeriChat: It seamlessly integrates with existing IT systems and cloud platforms, making it easy to incorporate into your current infrastructure.
+2024-11-24 20:39:02,190 - INFO - Starting chatClosest.exe with command: d:\Work\CorpusManager\CorpusTrainer\chatClosest.exe -config d:\Work\CorpusManager\CorpusTrainer\config_local.yaml -c d:\Work\CorpusManager\CorpusTrainer\gob/PMFuncOverView.gob -cmem 2 -intro -t 1
+2024-11-24 20:39:02,225 - INFO - Received from chatClosest.exe: User:
+2024-11-24 20:39:02,268 - INFO - Received from chatClosest.exe: Exiting chat.
+2024-11-24 20:39:06,612 - INFO - ChatBot is ready.
+2024-11-24 20:39:06,627 - INFO - Received from chatClosest.exe: ***************************************
+2024-11-24 20:39:06,631 - INFO - Received from chatClosest.exe: *                                     *
+2024-11-24 20:39:06,639 - INFO - Received from chatClosest.exe: *        Welcome to PeriChat!         *
+2024-11-24 20:39:06,647 - INFO - Received from chatClosest.exe: *                                     *
+2024-11-24 20:39:06,657 - INFO - Received from chatClosest.exe: ***************************************
+2024-11-24 20:39:06,668 - INFO - Received from chatClosest.exe: Our purpose is to provide easy answers to your questions about Perinet products, APIs, and any general Perinet-related queries.
+2024-11-24 20:39:06,678 - INFO - Received from chatClosest.exe: Type '/geronimo' for special exit.
+2024-11-24 20:39:10,765 - INFO - Sent to chatClosest.exe: PeriChat: What is mica
+2024-11-24 20:39:10,792 - INFO - Received from chatClosest.exe: User: PeriChat: The periMICA is designed as an edge computing device for IIoT/IoT applications, handling functions such as data preprocessing, local function control, dashboard display, and data forwarding to higher-level IT systems.
+2024-11-24 20:39:19,941 - INFO - Sent to chatClosest.exe: PeriChat: What is mica temperature range
+2024-11-24 20:39:19,970 - INFO - Received from chatClosest.exe: User: PeriChat: The **periNODE** is designed to operate within an **-40°C to +70°C** temperature range, making it suitable for use in extreme industrial environments that require devices to withstand harsh conditions.
+2024-11-24 20:39:30,782 - INFO - Sent to chatClosest.exe: PeriChat: Perinode temperature range
+2024-11-24 20:39:30,818 - INFO - Received from chatClosest.exe: User: PeriChat: The **periNODE** can be stored safely in environments with temperatures ranging from **-45°C to +85°C**. This wide storage range helps ensure that the device remains in optimal condition even when not in active use, ready for deployment in a variety of industrial settings.
+2024-11-24 21:32:12,965 - INFO - Starting chatClosest.exe with command: D:\Work\CorpusManager\CorpusTrainer\chatClosest.exe -config D:/Work/CorpusManager/CorpusTrainer/config_local.yaml -c D:\Work\CorpusManager\CorpusTrainer\gob/PMFuncOverView.gob -cmem 2 -intro -t 1 -dev
+2024-11-24 21:32:13,027 - INFO - Received from chatClosest.exe: Loaded greetings: [hi hello hey greetings sup yo]
+2024-11-24 21:32:13,049 - INFO - Received from chatClosest.exe: Loaded keywords: [PeriMICA periNODE perinode GPIO Storage PeriStart PeriSwitch PeriLine PeriSnoop Temperature Perinet voltage]
+2024-11-24 21:32:17,456 - INFO - ChatBot is ready.
+2024-11-24 21:32:17,463 - INFO - Received from chatClosest.exe: ***************************************
+2024-11-24 21:32:17,469 - INFO - Received from chatClosest.exe: *                                     *
+2024-11-24 21:32:17,474 - INFO - Received from chatClosest.exe: *        Welcome to PeriChat!         *
+2024-11-24 21:32:17,479 - INFO - Received from chatClosest.exe: *                                     *
+2024-11-24 21:32:17,484 - INFO - Received from chatClosest.exe: ***************************************
+2024-11-24 21:32:17,491 - INFO - Received from chatClosest.exe: Our purpose is to provide easy answers to your questions about Perinet products, APIs, and any general Perinet-related queries.
+2024-11-24 21:32:17,501 - INFO - Received from chatClosest.exe: Type '/exit' to end the session, '/save' to save the conversation and '/geronimo' for special exit.
+2024-11-24 21:32:29,630 - INFO - Sent to chatClosest.exe: PeriChat: what is mica
+2024-11-24 21:32:29,646 - INFO - Received from chatClosest.exe: User: Corrected Input: PeriChat: what is PeriMICA
+2024-11-24 21:32:29,656 - INFO - Received from chatClosest.exe: Analyzing text for context: PeriChat: what is PeriMICA
+2024-11-24 21:32:29,660 - INFO - Received from chatClosest.exe: Adding new context category 'PeriMICA' with age 2.
+2024-11-24 21:32:29,665 - INFO - Received from chatClosest.exe: Analyzing text for saving categories: PeriChat: what is PeriMICA
+2024-11-24 21:32:29,669 - INFO - Received from chatClosest.exe: Added category 'PeriMICA' to conversation data.
+2024-11-24 21:32:29,679 - INFO - Received from chatClosest.exe: Current context: PeriMICA
+2024-11-24 21:32:29,685 - INFO - Received from chatClosest.exe: Question to ask: PeriChat: what is PeriMICA [Context: PeriMICA]
+2024-11-24 21:32:29,694 - INFO - Received from chatClosest.exe: matched size: 32
+2024-11-24 21:32:29,700 - INFO - Received from chatClosest.exe: Cloud Switching in perspective of PeriMICA?
+2024-11-24 21:32:29,715 - INFO - Received from chatClosest.exe: Included Apps in PeriMICA?
+2024-11-24 21:32:29,722 - INFO - Received from chatClosest.exe: Non-Ethernet condition in PeriMICA?
+2024-11-24 21:32:29,731 - INFO - Received from chatClosest.exe: Customization details of PeriMICA?
+2024-11-24 21:32:29,741 - INFO - Received from chatClosest.exe: So, what's the main thing the periMICA is all about?
+2024-11-24 21:32:29,755 - INFO - Received from chatClosest.exe: Maintenance scenarios in PeriMICA?
+2024-11-24 21:32:29,762 - INFO - Received from chatClosest.exe: PeriMICA Connectivity Overview?
+2024-11-24 21:32:29,772 - INFO - Received from chatClosest.exe: Data Transmission in PeriMICA?
+2024-11-24 21:32:29,785 - INFO - Received from chatClosest.exe: what is perinet
+2024-11-24 21:32:29,790 - INFO - Received from chatClosest.exe: PeriMICA Versions?
+2024-11-24 21:32:29,800 - INFO - Received from chatClosest.exe: In what ways does periMICA's modular approach enhance flexibility?
+2024-11-24 21:32:29,813 - INFO - Received from chatClosest.exe: PeriChat: The periMICA is designed as an edge computing device for IIoT/IoT applications, handling functions such as data preprocessing, local function control, dashboard display, and data forwarding to higher-level IT systems.
+2024-11-24 21:32:29,822 - INFO - Received from chatClosest.exe: Confidence: 0.518	Time: 1.0812ms
+2024-11-24 21:32:29,838 - INFO - Received from chatClosest.exe: Analyzing text for saving categories: The periMICA is designed as an edge computing device for IIoT/IoT applications, handling functions such as data preprocessing, local function control, dashboard display, and data forwarding to higher-level IT systems.
+2024-11-24 21:32:29,847 - INFO - Received from chatClosest.exe: Decreased age of context category 'PeriMICA' to 1.
+2024-11-24 21:32:29,858 - INFO - Received from chatClosest.exe: Time taken: 1.0812ms
